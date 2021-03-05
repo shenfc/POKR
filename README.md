@@ -1,2 +1,2 @@
-# POKR: Computable Heterogeneous Knowledge Resource for Precision Oncology
+# POKR: Computable Heterogeneous Knowledge Resources for Precision Oncology
 
