@@ -1,0 +1,2809 @@
+,label_name,cluster
+0,[Gene]_BRAF,7
+1,[Variant]_BRAF:AKAP9-BRAF,7
+2,[Gene]_BRCA1,6
+3,[Variant]_BRCA1:MUTATION,1
+4,[Gene]_PIK3CA,1
+5,[Disease]_Epithelial Ovarian Cancer,0
+6,[Gene]_KRAS,3
+7,[Gene]_EGFR,3
+8,[Gene]_BRCA2,1
+9,[Variant]_BRCA2:MUTATION,4
+10,[Gene]_CCNE1,5
+11,[Variant]_CCNE1:AMPLIFICATION,1
+12,[Gene]_MTOR,0
+13,[Disease]_T-cell Acute Lymphoblastic Leukemia,6
+14,[Gene]_NT5C2,1
+15,[Gene]_DNMT3A,0
+16,[Variant]_EGFR:AMPLIFICATION,1
+17,[Disease]_Barrett's Adenocarcinoma,1
+18,[Disease]_Cervical Squamous Cell Carcinoma,0
+19,[Variant]_EGFR:COPY NUMBER VARIATION,2
+20,[Variant]_EGFR:OVEREXPRESSION,4
+21,[Disease]_Brain Glioblastoma Multiforme,1
+22,[Gene]_ERG,2
+23,[Variant]_ERG:EWSR1-ERG,2
+24,[Variant]_ERG:TMPRSS2-ERG,4
+25,[Gene]_FGFR3,4
+26,[Variant]_FGFR3:Y375C,2
+27,[Gene]_FLI1,1
+28,[Variant]_FLI1:EWSR1-FLI1,3
+29,[Gene]_FOXL2,0
+30,[Variant]_FOXL2:C134W,2
+31,[Gene]_DICER1,1
+32,[Disease]_Ovarian Granulosa Cell Tumor,0
+33,[Gene]_IDH2,5
+34,[Variant]_IDH2:R172,2
+35,[Gene]_IKZF1,4
+36,[Variant]_IKZF1:DELETION,2
+37,[Gene]_ABL1,4
+38,[Disease]_B-lymphoblastic Leukemia/lymphoma,5
+39,[Gene]_TP53,6
+40,[Gene]_KIT,3
+41,[Variant]_KIT:M541L,2
+42,[Variant]_KIT:V560DEL,3
+43,[Disease]_Thymic Carcinoma,1
+44,[Variant]_KRAS:G13,5
+45,[Variant]_KRAS:Q61,1
+46,[Gene]_IDH1,0
+47,[Disease]_Oligodendroglioma,6
+48,[Gene]_MGMT,1
+49,[Gene]_NCOA3,2
+50,[Variant]_NCOA3:AMPLIFICATION,2
+51,[Variant]_NCOA3:OVEREXPRESSION,6
+52,[Gene]_NOTCH1,2
+53,[Variant]_NOTCH1:MUTATION,0
+54,[Variant]_NOTCH1:P2514FS,6
+55,[Gene]_HRAS,0
+56,[Disease]_Thyroid Gland Follicular Carcinoma,5
+57,[Gene]_GNAS,0
+58,[Gene]_PAX8,6
+59,[Gene]_NRAS,1
+60,[Variant]_PAX8:PAX8-PPARG,3
+61,[Gene]_MET,1
+62,[Disease]_Renal Cell Carcinoma,4
+63,[Variant]_MET:Amplification,6
+64,[Variant]_MTOR:Q2223K,6
+65,"[Variant]_MTOR:L1460P, L2209V, L2427Q",2
+66,[Gene]_BAP1,0
+67,[Gene]_KLLN,2
+68,[Gene]_HIF1A,1
+69,[Gene]_EPAS1,0
+70,[Gene]_VHL,1
+71,[Gene]_FBXW7,1
+72,[Gene]_CCND1,1
+73,[Gene]_CDKN2B,0
+74,[Gene]_CDKN2A,1
+75,[Gene]_FLT3,4
+76,[Gene]_B4GALT1,1
+77,[Gene]_ALK,2
+78,[Gene]_HMOX1,1
+79,[Gene]_PBRM1,0
+80,[Gene]_PGR,0
+81,[Variant]_PGR:EXPRESSION,3
+82,[Disease]_Estrogen-receptor Positive Breast Cancer,4
+83,[Drug]_Tamoxifen,0
+84,[Disease]_Breast Cancer,0
+85,"[Drug]_Exemestane,Tamoxifen",3
+86,[Variant]_PIK3CA:AMPLIFICATION,0
+87,[Gene]_HSPH1,7
+88,[Disease]_Gastric Adenocarcinoma,3
+89,[Gene]_PBK,3
+90,[Gene]_PSMB8,0
+91,[Gene]_ERBB2,0
+92,[Gene]_CXCR4,1
+93,[Gene]_DNMT1,2
+94,[Gene]_RPS6,1
+95,[Gene]_TYMS,1
+96,[Gene]_EIF4EBP1,1
+97,[Gene]_ATM,2
+98,[Gene]_PTEN,1
+99,[Gene]_FGFR1,7
+100,[Variant]_PTEN:DELETION,0
+101,[Disease]_Prostate Adenocarcinoma,4
+102,[Variant]_PTEN:LOSS,0
+103,[Drug]_Temsirolimus,3
+104,[Disease]_Endometrial Cancer,4
+105,[Disease]_Renal Carcinoma,3
+106,[Disease]_Prostate Cancer,3
+107,[Gene]_SMAD4,6
+108,[Variant]_SMAD4:MUTATION,2
+109,[Disease]_Pancreatic Adenocarcinoma,1
+110,[Variant]_BRCA1:Oncogenic Mutations,2
+111,[Variant]_BRCA2:Oncogenic Mutations,3
+112,[Gene]_NRG1,4
+113,[Gene]_RB1,3
+114,[Gene]_SMARCA4,1
+115,[Variant]_SMARCA4:MUTATION,7
+116,[Disease]_Small-cell Carcinoma Of The Ovary Of Hypercalcemic Type,6
+117,[Variant]_SMARCA4:INACTIVATING MUTATION,1
+118,[Gene]_TERT,1
+119,[Variant]_TERT:AMPLIFICATION,4
+120,[Disease]_Acral Lentiginous Melanoma,1
+121,[Variant]_TERT:PROMOTER MUTATION,7
+122,[Disease]_Skin Melanoma,3
+123,[Gene]_B2M,4
+124,[Gene]_JAK2,1
+125,[Gene]_JAK1,3
+126,[Gene]_GNAQ,0
+127,[Gene]_RAF1,7
+128,[Gene]_EZH2,7
+129,[Gene]_NF1,7
+130,[Gene]_CDK4,5
+131,[Gene]_HLA-DRA,3
+132,[Variant]_TP53:DELETERIOUS MUTATION,7
+133,[Variant]_TP53:MUTATION,2
+134,[Gene]_AXL,2
+135,[Disease]_Esophagus Squamous Cell Carcinoma,4
+136,[Gene]_AURKA,7
+137,[Gene]_MDM2,2
+138,[Disease]_Myeloid Neoplasm,6
+139,[Variant]_TP53:TRUNCATING MUTATION,6
+140,[Gene]_TTF1,2
+141,[Variant]_TTF1:AMPLIFICATION,0
+142,[Variant]_ERBB2:AMPLIFICATION,2
+143,[Gene]_ERBB3,7
+144,[Disease]_Her2-receptor Positive Breast Cancer,2
+145,[Gene]_BIRC5,4
+146,[Disease]_Esophagogastric Cancer,0
+147,[Drug]_Trastuzumab,7
+148,[Variant]_ERBB2:Amplification,1
+149,[Disease]_Scrotum Paget's Disease,2
+150,[Disease]_Endometrial Serous Adenocarcinoma,2
+151,[Disease]_Lung Adenocarcinoma,3
+152,[Disease]_Lung Non-small Cell Carcinoma,3
+153,[Gene]_CHEK2,1
+154,[Variant]_CHEK2:LOSS-OF-FUNCTION,3
+155,"[Drug]_Gemcitabine,Trametinib",7
+156,[Gene]_CDK12,6
+157,[Variant]_CDK12:LOSS-OF-FUNCTION,1
+158,[Disease]_Ovarian Serous Carcinoma,1
+159,[Gene]_MAP2K1,0
+160,[Gene]_CD274,6
+161,[Disease]_Peripheral T-cell Lymphoma,7
+162,[Variant]_NT5C2:R367Q,7
+163,[Disease]_Childhood B-cell Acute Lymphoblastic Leukemia,1
+164,"[Drug]_Mercaptopurine,Thioguanine",2
+165,[Disease]_Childhood Acute Lymphocytic Leukemia,0
+166,[Variant]_NT5C2:K359Q,3
+167,[Variant]_NT5C2:D407A,3
+168,"[Drug]_Nelarabine,Arabinosylguanine",7
+169,[Variant]_ABL1:BCR-ABL F317L,0
+170,[Variant]_TP53:DNA BINDING DOMAIN MUTATION,1
+171,[Gene]_GAS6,1
+172,[Disease]_Oral Squamous Cell Carcinoma,1
+173,[Disease]_Lung Cancer,7
+174,"[Drug]_Multikinase Inhibitor AEE788,Gefitinib",7
+175,[Drug]_Rociletinib,5
+176,[Variant]_ATM:S2289*,7
+177,[Variant]_ATM:N2875H,7
+178,[Gene]_NF2,7
+179,[Variant]_NF2:Y177FS,7
+180,[Disease]_Peritoneal Mesothelioma,2
+181,[Disease]_Ovarian Cancer,3
+182,"[Drug]_Cisplatin,Carboplatin",7
+183,[Disease]_Triple-receptor Negative Breast Cancer,7
+184,[Gene]_PDGFRA,1
+185,[Variant]_PDGFRA:V561A,2
+186,[Variant]_TERT:C228T,0
+187,[Gene]_XRCC1,1
+188,[Variant]_XRCC1:R194W,2
+189,"[Drug]_Gemcitabine,Vinorelbine,Docetaxel",1
+190,[Gene]_GSTP1,4
+191,[Variant]_GSTP1:DELETION,7
+192,[Disease]_Ovarian Carcinoma,0
+193,"[Drug]_Cisplatin,Carboplatin,Paclitaxel",7
+194,[Gene]_BIRC7,1
+195,[Variant]_BIRC7:AMPLIFICATION,4
+196,[Disease]_Colon Cancer,3
+197,[Gene]_POU5F1,6
+198,[Disease]_Bladder Cancer,1
+199,[Drug]_Cisplatin,5
+200,[Variant]_ERCC2:Oncogenic Mutations,3
+201,[Disease]_Transitional Cell Carcinoma,3
+202,[Disease]_Cervix Carcinoma,7
+203,[Disease]_Cancer,0
+204,[Disease]_Head And Neck Squamous Cell Carcinoma,1
+205,[Disease]_Bladder Carcinoma,0
+206,[Disease]_Osteosarcoma,1
+207,[Variant]_EGFR:EXON 4 DELETION,4
+208,[Variant]_KRAS:RS61764370,1
+209,"[Drug]_Carboplatin,Paclitaxel",1
+210,[Gene]_ERCC5,1
+211,[Variant]_ERCC5:RS751402,4
+212,[Disease]_Parietal Lobe Ependymoma,3
+213,[Variant]_KIT:3' UTR MUTATION,1
+214,[Variant]_EZH2:INTRON 6 MUTATION,7
+215,[Gene]_MTHFR,1
+216,[Variant]_MTHFR:A222V,7
+217,[Disease]_Rectum Cancer,4
+218,[Drug]_Fluorouracil,1
+219,[Disease]_Colorectal Cancer,2
+220,[Disease]_Stomach Cancer,7
+221,[Variant]_GSTP1:I105V,4
+222,[Drug]_FOLFOX Regimen,0
+223,[Gene]_ABCG2,1
+224,[Variant]_ABCG2:Q141K,1
+225,[Variant]_XRCC1:Q399R,7
+226,[Disease]_Cervical Cancer,7
+227,[Gene]_SPHK1,2
+228,"[Drug]_Carboplatin,Cisplatin",4
+229,[Gene]_ABCB1,1
+230,[Variant]_ABCB1:S893T,7
+231,[Variant]_ABCB1:I1145I,1
+232,[Gene]_ERCC2,7
+233,[Variant]_ERCC2:K751Q,7
+234,[Variant]_TYMS:5' TANDEM REPEAT,0
+235,"[Drug]_Fluorouracil,Irinotecan",5
+236,[Gene]_LRP1B,2
+237,[Variant]_LRP1B:EXON 12-22 DELETION,0
+238,[Variant]_FGFR1:AMPLIFICATION,6
+239,[Variant]_FGFR1:Amplification,5
+240,[Disease]_Lung Squamous Cell Carcinoma,1
+241,[Gene]_NFE2L2,7
+242,[Variant]_FGFR1:EXPRESSION,1
+243,[Gene]_ROS1,2
+244,[Variant]_ROS1:REARRANGEMENT,7
+245,[Variant]_MET:AMPLIFICATION,4
+246,[Drug]_Onartuzumab,0
+247,[Gene]_ATR,7
+248,[Variant]_ATR:I774FS,0
+249,[Variant]_AKT1:E17K,5
+250,[Gene]_AKT1,7
+251,[Gene]_POLE,0
+252,[Gene]_FGFR2,1
+253,[Gene]_MRE11,4
+254,[Gene]_RIT1,4
+255,"[Drug]_Fluorouracil,Platinum Compound,Cetuximab",0
+256,[Disease]_Glioblastoma,7
+257,[Drug]_Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,4
+258,[Variant]_CDKN2A:p16 EXPRESSION,4
+259,[Gene]_RET,0
+260,[Variant]_RET:KIF5B-RET,1
+261,[Variant]_RET:Fusions,7
+262,[Drug]_Vandetanib,6
+263,[Disease]_Non-Small Cell Lung Cancer,7
+264,[Variant]_HRAS:G13D,7
+265,[Variant]_HRAS:MUTATION,0
+266,"[Drug]_Binimetinib,MTOR Kinase Inhibitor AZD8055,Selumetinib,Everolimus,MEK Inhibitor PD0325901",1
+267,[Variant]_CD274:EXPRESSION,7
+268,"[Drug]_Nivolumab,Pembrolizumab",6
+269,[Disease]_Melanoma,1
+270,[Variant]_MTOR:MUTATION,5
+271,"[Drug]_Pazopanib,Everolimus",1
+272,[Gene]_AKT2,1
+273,[Variant]_AKT2:EXPRESSION,6
+274,[Drug]_Uprosertib,7
+275,[Drug]_Capivasertib,7
+276,"[Drug]_Pictilisib,Akt Inhibitor MK2206",6
+277,[Drug]_PI3Kbeta Inhibitor AZD8186,1
+278,[Variant]_MTOR:H1968Y,0
+279,"[Drug]_PI3K/BET Inhibitor LY294002,Capivasertib",7
+280,"[Drug]_Buparlisib,Carboplatin,Paclitaxel",0
+281,[Variant]_NF2:K159FS*16,0
+282,[Variant]_EGFR:S492R,0
+283,[Variant]_FBXW7:MUTATION,0
+284,[Variant]_SMAD4:UNDEREXPRESSION,5
+285,[Variant]_MTOR:P2213S,7
+286,[Variant]_BRAF:AGK-BRAF,7
+287,[Variant]_BRAF:PAPSS1-BRAF,2
+288,[Variant]_BRAF:TRIM24-BRAF,6
+289,[Variant]_BRAF:L597R,7
+290,[Variant]_ERBB3:OVEREXPRESSION,2
+291,[Gene]_NT5E,7
+292,[Variant]_NT5E:OVEREXPRESSION,3
+293,[Variant]_EZH2:OVEREXPRESSION,7
+294,[Disease]_Acute Myeloid Leukemia,7
+295,[Drug]_GSK321,0
+296,[Gene]_MYD88,1
+297,[Variant]_MYD88:OVEREXPRESSION,6
+298,[Variant]_MET:EXON 14 SKIPPING MUTATION,7
+299,[Variant]_PIK3CA:P471L,1
+300,[Disease]_Merkel Cell Carcinoma,1
+301,[Drug]_Idelalisib,7
+302,[Variant]_RET:EXPRESSION,7
+303,[Variant]_RIT1:OVEREXPRESSION,6
+304,[Variant]_RIT1:MUTATION,1
+305,"[Drug]_Pictilisib,Selumetinib",2
+306,[Gene]_MYCN,1
+307,[Variant]_MYCN:AMPLIFICATION,7
+308,[Disease]_Neuroblastoma,0
+309,[Drug]_FACT Complex-targeting Curaxin CBL0137,0
+310,[Gene]_SMO,6
+311,[Variant]_SMO:D473H,7
+312,[Gene]_CTNNB1,7
+313,[Disease]_Medulloblastoma,6
+314,[Gene]_PTCH1,1
+315,"[Disease]_Skin Cancer, Non-Melanoma",1
+316,[Drug]_Vismodegib,6
+317,[Variant]_PTCH1:Truncating Mutations,7
+318,[Disease]_Basal Cell Carcinoma,7
+319,[Variant]_SMO:MUTATION,6
+320,"[Drug]_PSI,Arsenic Trioxide",0
+321,[Variant]_PTCH1:MUTATION,0
+322,[Disease]_Embryonal Tumor,1
+323,[Drug]_Sonidegib,5
+324,[Variant]_PTCH1:LOH,7
+325,[Gene]_STK11,1
+326,[Variant]_STK11:EXON 1-2 MUTATION,1
+327,[Variant]_STK11:UNDEREXPRESSION,1
+328,[Drug]_SB202190,7
+329,[Gene]_SYK,4
+330,[Variant]_SYK:OVEREXPRESSION,7
+331,[Drug]_Pictilisib,4
+332,[Disease]_Oropharynx Cancer,6
+333,[Drug]_AKTi-1/2,7
+334,[Variant]_ALK:EML4-ALK L1152R,1
+335,[Variant]_ALK:EML4-ALK G1269A,1
+336,[Gene]_ERBB4,0
+337,[Variant]_ERBB4:MUTATION,7
+338,[Variant]_PIK3CA:MUTATION,4
+339,[Drug]_Cabozantinib,6
+340,"[Variant]_MET:D1010, Exon 14 deletion, Exon 14 splice mutation, Y1003",0
+341,[Disease]_Thyroid Gland Medullary Carcinoma,7
+342,[Disease]_Uveal Melanoma,1
+343,[Variant]_EGFR:VIII,1
+344,[Variant]_EGFR:Exon 19 insertion,0
+345,[Drug]_Afatinib,1
+346,[Variant]_EGFR:L718V,3
+347,[Variant]_EGFR:L747P,2
+348,[Variant]_EGFR:A763_Y764insFQEA,0
+349,[Variant]_EGFR:L861Q,1
+350,[Variant]_EGFR:S768I,1
+351,"[Variant]_EGFR:Exon 19 deletion, L858R",0
+352,[Variant]_EGFR:G719,5
+353,[Variant]_EGFR:E709_T710delinsD,0
+354,[Variant]_EGFR:Kinase Domain Duplication,1
+355,[Disease]_Pancreatic Ductal Adenocarcinoma,7
+356,[Disease]_Mucinous Adenocarcinoma,1
+357,[Disease]_Cholangiocarcinoma,7
+358,[Disease]_Lung Carcinoma,1
+359,[Disease]_Uterine Corpus Endometrial Carcinoma,7
+360,[Variant]_PTEN:EXPRESSION,6
+361,[Variant]_NRG1:EXPRESSION,6
+362,[Drug]_Seribantumab,0
+363,"[Drug]_Cisplatin,Gemcitabine,Carboplatin,Paclitaxel",7
+364,[Gene]_AREG,7
+365,[Variant]_AREG:EXPRESSION,0
+366,[Disease]_Brain Glioma,7
+367,[Drug]_Nimotuzumab,4
+368,[Gene]_TGFA,6
+369,[Variant]_TGFA:EXPRESSION,4
+370,[Variant]_EGFR:G724S,7
+371,[Gene]_EREG,0
+372,[Variant]_EREG:EXPRESSION,1
+373,[Gene]_MAPK1,1
+374,[Variant]_MAPK1:E322K,7
+375,[Variant]_MAPK1:AMPLIFICATION,1
+376,[Drug]_WZ4002,7
+377,[Variant]_KRAS:A146V,4
+378,[Drug]_Abemaciclib,7
+379,[Variant]_MET:MUTATION,2
+380,[Disease]_Papillary Renal Cell Carcinoma,0
+381,[Drug]_Foretinib,7
+382,[Drug]_Infigratinib,3
+383,"[Drug]_Dovitinib,PD173074",1
+384,[Variant]_FGFR3:EXPRESSION,0
+385,"[Drug]_Dovitinib,Tyrosine Kinase Inhibitor SU5402,PD173074",7
+386,[Gene]_CBLC,5
+387,[Variant]_CBLC:EXPRESSION,1
+388,[Gene]_PTPRD,7
+389,[Variant]_PTPRD:MUTATION,7
+390,[Disease]_Head And Neck Carcinoma,7
+391,[Drug]_JSI-124,1
+392,[Gene]_DEFA1,1
+393,[Variant]_DEFA1:EXPRESSION,2
+394,[Drug]_Docetaxel,0
+395,[Gene]_ERCC1,4
+396,[Variant]_ERCC1:EXPRESSION,3
+397,[Variant]_NOTCH1:AMPLIFICATION,7
+398,[Drug]_NOTCH1 Antibody (PF-06293622),7
+399,[Drug]_Patritumab,7
+400,[Gene]_WEE1,7
+401,[Variant]_WEE1:RS3910384,6
+402,"[Drug]_Gemcitabine,Platinum Compound",1
+403,[Gene]_FNTB,2
+404,[Variant]_FNTB:RS11623866,7
+405,[Drug]_Lonafarnib,0
+406,[Gene]_PTPRT,0
+407,[Variant]_PTPRT:PROMOTER HYPERMETHYLATION,0
+408,"[Drug]_JSI-124,Stattic",0
+409,[Gene]_VEGFA,6
+410,[Variant]_VEGFA:UNDEREXPRESSION,7
+411,"[Drug]_Bevacizumab,Fluorouracil,Levoleucovorin,Irinotecan",0
+412,[Variant]_DNMT1:EXPRESSION,1
+413,[Drug]_Decitabine,4
+414,[Variant]_KRAS:MUTATION,7
+415,[Gene]_PDCD4,1
+416,[Variant]_PDCD4:EXPRESSION,0
+417,[Variant]_MGMT:RS16906252,7
+418,[Gene]_TFF3,7
+419,[Variant]_TFF3:EXPRESSION,1
+420,"[Drug]_Aminoglutethimide,Tamoxifen",7
+421,[Gene]_DKK1,7
+422,[Variant]_DKK1:NUCLEAR EXPRESSION,7
+423,"[Drug]_Levoleucovorin,Fluorouracil,Oxaliplatin,Irinotecan",1
+424,[Gene]_CD44,7
+425,[Variant]_CD44:ISOFORM EXPRESSION,3
+426,[Drug]_RG7356,1
+427,[Gene]_EGF,0
+428,[Variant]_EGF:EXPRESSION,2
+429,[Variant]_MDM2:EXPRESSION,7
+430,[Disease]_Malignant Pleural Mesothelioma,7
+431,"[Drug]_Cisplatin,Pemetrexed",1
+432,[Variant]_HMOX1:EXPRESSION,2
+433,[Disease]_Leukemia,7
+434,"[Drug]_Sunitinib,Sorafenib",7
+435,[Disease]_Angiosarcoma,0
+436,[Variant]_SPHK1:OVEREXPRESSION,7
+437,[Gene]_CASP8,7
+438,[Variant]_CASP8:EXPRESSION,7
+439,[Disease]_Ewing Sarcoma Of Bone,0
+440,[Gene]_EWSR1,4
+441,[Gene]_STAG2,7
+442,[Drug]_Conatumumab,7
+443,[Variant]_TYMS:EXPRESSION,7
+444,[Drug]_Pemetrexed,7
+445,[Variant]_PBK:OVEREXPRESSION,1
+446,[Variant]_SMARCA4:UNDEREXPRESSION,1
+447,"[Drug]_Cisplatin,Vinorelbine",6
+448,[Gene]_SETBP1,7
+449,[Variant]_SETBP1:EXON 4 MUTATION,6
+450,[Variant]_SETBP1:G870S,4
+451,"[Drug]_Ceritinib,Luminespib,Crizotinib",1
+452,[Variant]_ALK:Oncogenic Mutations,7
+453,[Drug]_Lorlatinib,0
+454,[Variant]_ALK:EML4-ALK C1156Y-L1198F,5
+455,"[Drug]_Docetaxel,Cetuximab",1
+456,[Disease]_Lung Small Cell Carcinoma,7
+457,[Drug]_Chemotherapy,0
+458,[Disease]_Stomach Carcinoma,1
+459,[Disease]_Esophageal Carcinoma,7
+460,[Gene]_CDKN1A,0
+461,[Variant]_CDKN1A:EXPRESSION,0
+462,[Gene]_ALCAM,7
+463,[Variant]_ALCAM:EXPRESSION,7
+464,[Gene]_STMN1,0
+465,[Variant]_STMN1:EXPRESSION,1
+466,[Disease]_Endometrial Carcinoma,7
+467,[Gene]_RSF1,2
+468,[Variant]_RSF1:AMPLIFICATION,7
+469,[Gene]_AR,0
+470,[Variant]_AR:OVEREXPRESSION,5
+471,[Drug]_Dactolisib,7
+472,[Disease]_Head And Neck Cancer,7
+473,[Gene]_CDKN1B,2
+474,[Variant]_CDKN1B:CYTOPLASMIC MISLOCALIZATION,2
+475,[Drug]_Anti-ErbB3 Monoclonal Antibody AV-203,0
+476,[Variant]_ERBB3:EXPRESSION,7
+477,[Variant]_AR:V7 EXPRESSION,7
+478,"[Drug]_Enzalutamide,Abiraterone",0
+479,"[Drug]_Lapatinib,Trastuzumab",0
+480,[Gene]_CIP2A,7
+481,[Gene]_HSPB1,1
+482,"[Drug]_Pertuzumab,9F7-F11",6
+483,[Gene]_UGT1A,6
+484,[Variant]_UGT1A:EXPRESSION,7
+485,[Drug]_Ganetespib,7
+486,[Variant]_ERBB4:NUCLEAR TRANSLOCATION,7
+487,[Variant]_ERBB4:EXPRESSION,1
+488,[Gene]_SLFN11,1
+489,[Variant]_SLFN11:EXPRESSION,7
+490,[Drug]_7-Ethyl-10-Hydroxycamptothecin,7
+491,[Gene]_RAC1,4
+492,[Variant]_RAC1:P29S,7
+493,"[Drug]_Dabrafenib,Vemurafenib",1
+494,[Variant]_BIRC5:NUCLEAR EXPRESSION,7
+495,"[Drug]_Taxane Compound,Platinum Compound",7
+496,[Variant]_TP53:WILD TYPE,7
+497,"[Drug]_Capecitabine,Cetuximab,Oxaliplatin",6
+498,[Variant]_MRE11:LOSS,7
+499,[Drug]_Talazoparib,3
+500,"[Drug]_Afatinib,Trastuzumab,Lapatinib",7
+501,[Gene]_TOP1,1
+502,[Variant]_TOP1:AMPLIFICATION,0
+503,[Drug]_Irinotecan,7
+504,[Variant]_CDKN1B:EXPRESSION,6
+505,[Disease]_Esophageal Cancer,7
+506,"[Drug]_Fluorouracil,Cisplatin",7
+507,[Gene]_AGR2,0
+508,[Variant]_AGR2:EXPRESSION,6
+509,"[Drug]_Temsirolimus,Ridaforolimus",7
+510,"[Drug]_Ridaforolimus,Temsirolimus",1
+511,"[Drug]_Cetuximab,Capecitabine,Oxaliplatin",7
+512,[Gene]_NAPRT,7
+513,[Variant]_NAPRT:PROMOTER HYPERMETHYLATION,4
+514,[Drug]_GNE-617,6
+515,[Variant]_EGFR:EXON 18 OVEREXPRESSION,7
+516,"[Drug]_Bevacizumab,Erlotinib",0
+517,[Gene]_ZEB1,1
+518,[Variant]_ZEB1:EXPRESSION,6
+519,[Disease]_Mantle Cell Lymphoma,7
+520,"[Drug]_Gemcitabine,Cytarabine,Doxorubicin",1
+521,"[Drug]_Doxorubicin,Salinomycin",7
+522,[Gene]_TIMP1,7
+523,[Variant]_TIMP1:OVEREXPRESSION,7
+524,[Drug]_Fulvestrant,0
+525,[Gene]_PTP4A3,0
+526,[Variant]_PTP4A3:OVEREXPRESSION,0
+527,[Variant]_TYMS:AMPLIFICATION,7
+528,[Gene]_IGF1R,7
+529,[Variant]_IGF1R:EXPRESSION,7
+530,[Gene]_EPHB4,1
+531,[Variant]_EPHB4:EXPRESSION,0
+532,[Disease]_Malignant Glioma,7
+533,[Drug]_Bevacizumab,7
+534,[Disease]_Inflammatory Breast Carcinoma,7
+535,[Variant]_TYMS:UNDEREXPRESSION,7
+536,[Gene]_TOP2A,1
+537,[Variant]_TOP2A:EXPRESSION,7
+538,[Variant]_TOP1:EXPRESSION,7
+539,"[Drug]_Carboplatin,Topotecan,Cyclophosphamide",0
+540,[Gene]_PRKAA2,7
+541,[Variant]_PRKAA2:T172 PHOSPHORYLATION,7
+542,[Drug]_ACLY SiRNA,7
+543,[Gene]_HSPA5,1
+544,[Variant]_HSPA5:EXPRESSION,7
+545,[Drug]_Anti-EGFR Monoclonal Antibody,7
+546,[Disease]_Pancreatic Carcinoma,1
+547,[Variant]_EIF4EBP1:PHOSPHORYLATION,7
+548,[Variant]_KIT:MUTATION,0
+549,[Disease]_Gastrointestinal Stromal Tumor,1
+550,"[Drug]_Imatinib,Pictilisib",1
+551,[Gene]_TUBB3,7
+552,[Variant]_TUBB3:EXPRESSION,7
+553,[Drug]_Taxane Compound,7
+554,[Variant]_EGFR:Y1092 PHOSPHORYLATION,7
+555,"[Drug]_Erlotinib,Gefitinib",7
+556,[Variant]_IGF1R:NUCLEAR EXPRESSION,1
+557,[Gene]_NTRK2,7
+558,[Disease]_Sarcoma,2
+559,[Gene]_ASS1,7
+560,[Gene]_NTRK1,4
+561,[Gene]_RAD23B,7
+562,[Drug]_IGF1R Monoclonal Antibody,1
+563,[Gene]_CFLAR,4
+564,[Variant]_CFLAR:EXPRESSION,7
+565,[Gene]_PROM1,7
+566,[Variant]_PROM1:EXPRESSION,7
+567,[Gene]_FGF19,0
+568,[Disease]_Hepatocellular Carcinoma,4
+569,[Gene]_KIF23,7
+570,[Gene]_NEDD9,7
+571,[Gene]_FOXP3,7
+572,[Variant]_FOXP3:EXPRESSION,7
+573,[Drug]_Epirubicin,7
+574,[Drug]_Raltitrexed,7
+575,[Variant]_RPS6:PHOSPHORYLATION,5
+576,[Variant]_JAK1:OVEREXPRESSION,7
+577,[Drug]_Enzastaurin,7
+578,"[Drug]_Dactolisib,WYE354,MTOR Kinase Inhibitor PP242",1
+579,[Variant]_BRCA1:EXPRESSION,1
+580,[Disease]_Malignant Mesothelioma,1
+581,[Drug]_Vinorelbine,7
+582,[Gene]_DUSP6,0
+583,[Variant]_DUSP6:EXPRESSION,7
+584,[Variant]_BRAF:MUTATION,7
+585,[Variant]_HSPB1:EXPRESSION,7
+586,[Disease]_Pancreatic Cancer,7
+587,[Drug]_Gemcitabine,1
+588,[Disease]_Bile Duct Adenocarcinoma,7
+589,[Gene]_NQO1,7
+590,[Variant]_NQO1:EXPRESSION,3
+591,[Drug]_Amrubicin,7
+592,[Variant]_NQO1:P187S,7
+593,[Variant]_BRCA1:UNDEREXPRESSION,5
+594,"[Drug]_Platinum Compound,Taxane Compound",2
+595,"[Drug]_Immunomodulatory Oligonucleotide,Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor",5
+596,[Variant]_ABCB1:EXPRESSION,7
+597,[Variant]_ALK:ALK FUSIONS,6
+598,"[Drug]_Dasatinib,Cetuximab",7
+599,[Variant]_CXCR4:EXPRESSION,7
+600,[Gene]_MAGEH1,7
+601,[Variant]_MAGEH1:EXPRESSION,7
+602,[Gene]_ABCC3,1
+603,[Variant]_ABCC3:AMPLIFICATION,1
+604,"[Drug]_Paclitaxel,Monomethyl Auristatin E",7
+605,[Gene]_ABCC10,7
+606,[Variant]_ABCC10:EXPRESSION,1
+607,[Gene]_ASNS,7
+608,[Variant]_ASNS:AMPLIFICATION,7
+609,[Drug]_Asparaginase,7
+610,[Gene]_CDX2,6
+611,[Variant]_CDX2:EXPRESSION,7
+612,[Gene]_STAT3,4
+613,[Variant]_STAT3:SH2 DOMAIN MUTATION,7
+614,[Disease]_T-cell Large Granular Lymphocyte Leukemia,7
+615,[Variant]_POU5F1:EXPRESSION,7
+616,[Drug]_Oxaliplatin,7
+617,[Variant]_ERBB2:KINASE DOMAIN MUTATION,7
+618,[Variant]_ERBB2:Y772_A775DUP,5
+619,"[Drug]_Afatinib,Sirolimus",7
+620,[Variant]_EGFR:C797G,7
+621,[Drug]_Osimertinib,7
+622,[Variant]_EGFR:C797S,3
+623,[Variant]_EGFR:D761Y,7
+624,[Variant]_EGFR:T790M,1
+625,"[Drug]_Rociletinib,Osimertinib",7
+626,[Drug]_Rindopepimut,7
+627,[Variant]_ERBB2:SERUM LEVELS,7
+628,[Gene]_THBS2,7
+629,[Variant]_THBS2:UNDEREXPRESSION,7
+630,[Gene]_MMP2,7
+631,[Variant]_NTRK1:NTRK1 FUSIONS,7
+632,[Variant]_NTRK3:G623R,7
+633,[Drug]_Larotrectinib,4
+634,[Variant]_NTRK1:G595R,6
+635,[Variant]_NTRK1:Fusions,0
+636,[Variant]_NTRK3:Fusions,7
+637,[Variant]_NTRK2:Fusions,1
+638,[Disease]_All Solid Tumors,7
+639,[Disease]_B-cell Adult Acute Lymphocytic Leukemia,6
+640,[Disease]_Spindle Cell Sarcoma,0
+641,[Disease]_Breast Secretory Carcinoma,1
+642,[Disease]_Congenital Fibrosarcoma,3
+643,[Variant]_IDH1:R132H,7
+644,[Drug]_AGI-5198,6
+645,[Variant]_TERT:RS2736100,0
+646,[Variant]_STAG2:UNDEREXPRESSION,7
+647,[Variant]_HLA-DRA:EXPRESSION,7
+648,"[Drug]_Nivolumab,Pembrolizumab,Atezolizumab",7
+649,[Variant]_MYD88:L265P,7
+650,[Disease]_Waldenstroem's Macroglobulinemia,7
+651,"[Drug]_Selumetinib,B-Raf/VEGFR-2 Inhibitor RAF265",7
+652,"[Drug]_B-Raf/VEGFR-2 Inhibitor RAF265,Selumetinib",7
+653,"[Drug]_Trametinib,Afatinib",7
+654,"[Drug]_Afatinib,Trametinib",6
+655,[Drug]_MEK Inhibitor RO4987655,7
+656,[Variant]_BRAF:WILD TYPE,7
+657,"[Drug]_Docetaxel,Selumetinib",2
+658,[Drug]_Refametinib,7
+659,[Variant]_NRAS:Q61K,7
+660,"[Drug]_Everolimus,Binimetinib",3
+661,"[Drug]_PI3Kbeta Inhibitor AZD8186,SCH772984",7
+662,"[Drug]_Selumetinib,Teprotumumab",5
+663,"[Drug]_Selumetinib,Dactolisib",7
+664,"[Drug]_Trastuzumab,Lapatinib",7
+665,"[Drug]_Afatinib,Trastuzumab",7
+666,[Variant]_MRE11:FRAMESHIFT MUTATION,7
+667,"[Drug]_Larotrectinib,Lestaurtinib,Crizotinib",7
+668,[Variant]_KIT:EXPRESSION,7
+669,[Gene]_CBFB,7
+670,[Variant]_CBFB:CBFB-MYH11,2
+671,[Disease]_Adrenocortical Carcinoma,7
+672,[Gene]_KMT2A,7
+673,[Variant]_KMT2A:MLL-MLLT3,0
+674,[Variant]_HIF1A:3' UTR Polymorphism,4
+675,[Variant]_HIF1A:OVEREXPRESSION,7
+676,[Variant]_EPAS1:OVEREXPRESSION,7
+677,[Variant]_VHL:LOSS,4
+678,[Variant]_FLT3:D835,7
+679,"[Drug]_Quizartinib,Ponatinib",6
+680,"[Drug]_Quizartinib,Sorafenib",7
+681,[Gene]_RICTOR,7
+682,[Gene]_CHEK1,7
+683,[Gene]_MYC,7
+684,"[Drug]_Trastuzumab,Irinotecan",6
+685,[Drug]_Trastuzumab Emtansine,1
+686,[Variant]_PSMB8:NUCLEAR EXPRESSION,0
+687,[Variant]_PBK:NUCLEAR EXPRESSION,4
+688,[Gene]_PTTG1,7
+689,[Variant]_PTTG1:OVEREXPRESSION,7
+690,[Gene]_LEPR,3
+691,[Disease]_Meningioma,5
+692,[Variant]_LEPR:UNDEREXPRESSION,7
+693,[Variant]_EGFR:G465R,7
+694,[Drug]_Futuximab/Modotuximab Mixture,7
+695,[Variant]_NEDD9:EXPRESSION,1
+696,[Gene]_ETS2,7
+697,[Variant]_ETS2:RS461155,7
+698,"[Drug]_Paclitaxel,Cisplatin",1
+699,[Gene]_KRT18,6
+700,[Variant]_KRT18:UNDEREXPRESSION,7
+701,[Gene]_FGF13,2
+702,[Variant]_FGF13:CYTOPLASMIC EXPRESSION,3
+703,[Gene]_SSX1,7
+704,[Variant]_SSX1:SS18-SSX1,1
+705,[Gene]_SMARCB1,7
+706,[Disease]_Synovial Sarcoma,6
+707,[Gene]_SSX4,0
+708,[Gene]_SSX2,6
+709,[Variant]_SSX2:SS18-SSX2,1
+710,[Gene]_PARP1,7
+711,[Disease]_Malignant Peripheral Nerve Sheath Tumor,7
+712,[Variant]_SSX4:SS18-SSX4,0
+713,[Variant]_ABCB1:S893A/T,5
+714,"[Drug]_Pertuzumab,Trastuzumab,Docetaxel",7
+715,"[Drug]_Panitumumab,Futuximab/Modotuximab Mixture",1
+716,[Variant]_EGFR:R451C,4
+717,"[Drug]_Panitumumab,Futuximab/Modotuximab Mixture,Cetuximab",0
+718,[Variant]_EGFR:K467T,7
+719,"[Drug]_Futuximab/Modotuximab Mixture,Panitumumab",7
+720,[Gene]_FCGR2A,1
+721,[Variant]_FCGR2A:H167R,1
+722,[Gene]_FCGR3A,1
+723,[Variant]_FCGR3A:F212V,7
+724,[Gene]_FCGR2B,7
+725,[Variant]_FCGR2B:I232T,7
+726,[Variant]_EGFR:P753S,1
+727,[Disease]_Skin Squamous Cell Carcinoma,7
+728,[Gene]_KMT2C,3
+729,"[Drug]_Sirolimus,Cetuximab",0
+730,[Disease]_Acute Promyelocytic Leukemia,4
+731,"[Drug]_Tretinoin,Arsenic Trioxide",7
+732,[Gene]_PML,7
+733,[Variant]_PML:B2 DOMAIN MUTATION,2
+734,[Variant]_PML:PML-RARA A216V,7
+735,[Variant]_PML:PML-RARA L218P,1
+736,[Variant]_MET:EXON 14 MUTATION and AMPLIFICATION,7
+737,[Drug]_Patidegib,1
+738,[Variant]_ROS1:CD74-ROS1 G2032R,1
+739,[Gene]_CEBPA,7
+740,[Variant]_CEBPA:N-TERMINAL FRAME SHIFT,1
+741,[Drug]_OICR-9429,7
+742,[Variant]_FGFR1:ZNF198-FGFR1,7
+743,[Gene]_PDGFRB,4
+744,[Disease]_Myeloproliferative Neoplasm,7
+745,[Gene]_CALR,3
+746,[Disease]_Systemic Mastocytosis,1
+747,[Drug]_Midostaurin,7
+748,[Drug]_Afimoxifene,1
+749,[Gene]_KDR,7
+750,[Variant]_KDR:A1065T,7
+751,[Gene]_PTPRB,7
+752,[Variant]_KDR:D717V,7
+753,[Gene]_TSC2,7
+754,[Variant]_TSC2:Q1178*,7
+755,[Disease]_Thyroid Gland Carcinoma,1
+756,[Variant]_MTOR:F2108L,7
+757,[Gene]_RAD51D,2
+758,[Variant]_RAD51D:R186*,7
+759,"[Drug]_Tretinoin,Anthracycline Antineoplastic Antibiotic",7
+760,"[Drug]_Trastuzumab,Neratinib",0
+761,[Gene]_ALDH1A2,7
+762,[Variant]_ALDH1A2:EXPRESSION,7
+763,[Variant]_ALDH1A2:UNDEREXPRESSION,7
+764,[Variant]_CIP2A:EXPRESSION,0
+765,[Variant]_CIP2A:UNDEREXPRESSION,0
+766,[Gene]_MIR218-1,0
+767,[Variant]_MIR218-1:EXPRESSION,7
+768,[Disease]_Lung Acinar Adenocarcinoma,7
+769,[Variant]_BRCA1:P968FS,7
+770,[Variant]_BRAF:V600E,1
+771,[Disease]_Hairy Cell Leukemia,7
+772,[Variant]_KRAS:Q22*,5
+773,[Disease]_Colon Mucinous Adenocarcinoma,7
+774,"[Drug]_Capecitabine,Lapatinib",7
+775,"[Drug]_Capecitabine,Trastuzumab",7
+776,[Gene]_DDX43,6
+777,[Variant]_DDX43:OVEREXPRESSION,7
+778,"[Drug]_Trametinib,Selumetinib,MEK Inhibitor PD0325901",1
+779,[Variant]_KIT:RS3733542,2
+780,[Gene]_TBK1,7
+781,[Variant]_TBK1:OVEREXPRESSION,1
+782,"[Drug]_AZ909,Selumetinib",0
+783,"[Drug]_Chemotherapy,Bevacizumab",7
+784,"[Drug]_MEK Inhibitor GDC-0623,G-573",6
+785,[Variant]_ARAF:Oncogenic Mutations,7
+786,[Drug]_Cobimetinib,6
+787,[Variant]_RAF1:Oncogenic Mutations,7
+788,[Variant]_NRAS:Oncogenic Mutations,0
+789,[Variant]_KRAS:Oncogenic Mutations,7
+790,[Variant]_BRAF:Oncogenic Mutations,7
+791,[Disease]_Histiocytosis,1
+792,[Variant]_MAP2K2:Oncogenic Mutations,7
+793,"[Drug]_Selumetinib,Docetaxel",7
+794,[Variant]_STK11:LOSS,7
+795,[Drug]_Adjuvant Chemotherapy,7
+796,[Gene]_HAVCR2,4
+797,[Variant]_HAVCR2:OVEREXPRESSION,1
+798,[Drug]_PD1 Inhibitor,7
+799,"[Drug]_Anti-TIM-3 Monoclonal Antibody,PD1 Inhibitor",7
+800,"[Drug]_Afatinib,Selumetinib",7
+801,"[Drug]_Gefitinib,HER2 Inhibitor CP-724,714,Selumetinib",7
+802,[Variant]_MMP2:SERUM LEVELS,7
+803,[Gene]_MMP9,7
+804,[Variant]_MMP9:SERUM LEVELS,5
+805,[Gene]_ACTA1,1
+806,[Variant]_ACTA1:EXPRESSION,6
+807,[Variant]_HSPH1:NUCLEAR EXPRESSION,7
+808,"[Drug]_Cisplatin,Fluorouracil",3
+809,[Variant]_HSPH1:T17 DELETION,6
+810,"[Drug]_Oxaliplatin,Fluorouracil",6
+811,[Gene]_ECSCR,7
+812,[Variant]_ECSCR:EXPRESSION,7
+813,[Drug]_Angiogenesis Inhibitor,7
+814,[Gene]_ROBO4,7
+815,[Variant]_ROBO4:EXPRESSION,7
+816,"[Drug]_Atezolizumab,Avelumab,Pembrolizumab,Nivolumab",7
+817,[Gene]_PIM1,7
+818,[Variant]_PIM1:NUCLEAR EXPRESSION,1
+819,[Variant]_MDM2:SNP309,7
+820,[Disease]_Adenosquamous Lung Carcinoma,7
+821,[Drug]_Pazopanib,6
+822,[Drug]_Atezolizumab,7
+823,"[Drug]_Epidermal Growth Factor Receptor Tyrosine Kinase Inhibitor,ARS-853",7
+824,"[Drug]_Neratinib,Lapatinib,Trastuzumab",6
+825,[Variant]_ALK:Fusions,7
+826,[Drug]_Ceritinib,7
+827,[Disease]_Inflammatory Myofibroblastic Tumor,0
+828,[Disease]_Colon Adenocarcinoma,3
+829,"[Drug]_Trastuzumab,Lapatinib,Neratinib",7
+830,[Variant]_ERBB2:L866M,3
+831,"[Drug]_Lapatinib,Neratinib,Trastuzumab",7
+832,[Variant]_ERBB2:S310F/Y,0
+833,[Drug]_Ixazomib,4
+834,[Drug]_AZD5438,1
+835,[Variant]_MIR218-1:UNDEREXPRESSION,7
+836,[Gene]_RRM2,7
+837,[Gene]_RRM1,7
+838,[Gene]_FANCC,7
+839,[Gene]_PALB2,7
+840,[Gene]_SIRT1,7
+841,[Drug]_Capmatinib,0
+842,[Drug]_WHI-P154,4
+843,[Variant]_ALK:EML4-ALK e20-e20,7
+844,[Variant]_ALK:EML4-ALK e2-e20,7
+845,[Variant]_KDR:R961W,7
+846,[Disease]_Colorectal Adenocarcinoma,7
+847,[Gene]_JUN,0
+848,[Variant]_ALK:EML4-ALK e6-e20,1
+849,"[Drug]_2,4-pyrimidinediamine",5
+850,[Drug]_Retaspimycin Hydrochloride,7
+851,"[Drug]_Retaspimycin Hydrochloride,Crizotinib",1
+852,"[Drug]_Alvespimycin,Crizotinib",3
+853,[Drug]_Alvespimycin,7
+854,[Variant]_TP53:P47S,7
+855,[Variant]_GNAQ:MUTATION,7
+856,[Disease]_NUT Midline Carcinoma,7
+857,[Drug]_JQ1,7
+858,[Gene]_GNA11,4
+859,[Variant]_GNA11:MUTATION,1
+860,[Variant]_GNA11:Q209,7
+861,[Variant]_GNAQ:Q209,7
+862,[Gene]_PMS2,7
+863,[Variant]_PMS2:K706FS*19,1
+864,[Drug]_Nivolumab,1
+865,[Variant]_Other Biomarkers:Microsatellite Instability-High,1
+866,[Drug]_Salirasib,4
+867,"[Drug]_Gemcitabine,Erlotinib",7
+868,[Variant]_KIT:EXON 9 MUTATION,0
+869,"[Drug]_Docetaxel,Trametinib",0
+870,[Drug]_Binimetinib,1
+871,[Disease]_Ovary Serous Adenocarcinoma,7
+872,"[Drug]_Trametinib,Metformin",3
+873,[Variant]_PTEN:MUTATION,7
+874,"[Drug]_Panobinostat,Valproic Acid,Vorinostat,Trichostatin A",1
+875,"[Drug]_Vorinostat,Mocetinostat,MC1568",2
+876,[Variant]_FGFR2:MUTATION,7
+877,[Variant]_ALK:MUTATION,7
+878,[Variant]_ALK:NPM-ALK,1
+879,[Disease]_Anaplastic Large Cell Lymphoma,7
+880,[Variant]_ALK:RANBP2-ALK,5
+881,[Variant]_FGFR1:N546K,7
+882,"[Drug]_Foretinib,Cabozantinib",7
+883,"[Drug]_AZD3463,Ceritinib,Crizotinib,Brigatinib",7
+884,[Variant]_ROS1:CD74-ROS1 L2026M,0
+885,[Variant]_ROS1:CD74-ROS1 L2155S,7
+886,"[Drug]_Foretinib,TAE684,Crizotinib",7
+887,[Variant]_ROS1:CD74-ROS1 G2101A,3
+888,[Variant]_ALK:CLTC-ALK,7
+889,[Gene]_U2AF1,7
+890,[Variant]_U2AF1:MUTATION,7
+891,[Gene]_ASXL1,7
+892,[Disease]_Myelofibrosis,7
+893,[Variant]_BRAF:DEL 485-490,7
+894,[Drug]_Pan-RAF Inhibitor LY3009120,6
+895,[Gene]_RHOA,7
+896,[Gene]_CDH1,1
+897,[Gene]_MLH1,6
+898,[Gene]_DUX4,7
+899,[Variant]_DUX4:DUX4 FUSIONS,2
+900,[Variant]_B4GALT1:EXPRESSION,0
+901,[Gene]_BCL2L11,7
+902,[Variant]_BCL2L11:DELETION POLYMORPHISM,7
+903,[Variant]_ALK:ALK FUSION I1171,2
+904,[Variant]_ALK:EML4-ALK  V1180L,4
+905,[Drug]_Brigatinib,6
+906,[Variant]_SIRT1:OVEREXPRESSION,7
+907,[Disease]_Pancreatic Ductal Carcinoma,4
+908,[Drug]_Niacinamide,7
+909,[Variant]_KRAS:G12R,1
+910,[Variant]_TP53:P72R,7
+911,[Variant]_PALB2:BIALLELIC INACTIVATION,2
+912,[Drug]_Mitomycin,7
+913,[Variant]_SMAD4:EXPRESSION,1
+914,[Variant]_FANCC:LOSS-OF-FUNCTION,7
+915,"[Drug]_Mitomycin,Cisplatin,Chlorambucil,Melphalan,Gemcitabine",5
+916,[Variant]_PDGFRB:EBF1-PDGFRB,1
+917,[Disease]_Malignant Exocrine Pancreas Neoplasm,1
+918,[Variant]_RB1:EXPRESSION,6
+919,[Variant]_MLH1:METHYLATION,7
+920,[Gene]_PTPN11,7
+921,[Variant]_PTPN11:EXPRESSION,7
+922,[Disease]_Laryngeal Carcinoma,1
+923,[Variant]_FLT3:T227M,7
+924,[Variant]_PALB2:L531FS*30,7
+925,[Variant]_MTOR:S2215Y,7
+926,[Disease]_Endometrial Adenocarcinoma,7
+927,[Variant]_MTOR:C1483Y,0
+928,[Variant]_MTOR:E1799K,1
+929,[Variant]_FGFR2:N550K,7
+930,[Variant]_RB1:OVEREXPRESSION,7
+931,"[Drug]_Gemcitabine,Doxorubicin,Fluorouracil,Mitomycin",7
+932,[Gene]_PPP1R15A,7
+933,[Variant]_PPP1R15A:RS557806,6
+934,"[Drug]_FOLFIRI Regimen,Bevacizumab",7
+935,"[Drug]_Irinotecan,Selumetinib",1
+936,[Drug]_AZD3463,7
+937,[Variant]_ALK:F1245C,1
+938,[Variant]_ALK:DEL4-11,7
+939,[Variant]_ALK:ALK FUSION F1245C,7
+940,[Variant]_ALK:ALK FUSION G1269A,6
+941,"[Drug]_Pictilisib,Tanespimycin",7
+942,"[Drug]_Tanespimycin,Pictilisib",1
+943,"[Drug]_Dactolisib,Cetuximab",5
+944,"[Drug]_Pictilisib,Trametinib,Tanespimycin",3
+945,[Variant]_CDK4:AMPLIFICATION,7
+946,[Disease]_Liposarcoma,7
+947,[Variant]_MDM2:Amplification,5
+948,[Gene]_DDIT3,1
+949,[Variant]_CDKN2A:LOSS,0
+950,[Drug]_Alvocidib,7
+951,[Variant]_CDKN2B:LOSS,7
+952,[Variant]_CDK4:R24C,7
+953,[Variant]_ASXL1:EXON 12 MUTATION,7
+954,[Drug]_A66,7
+955,[Drug]_Tgx 221,2
+956,[Variant]_CALR:EXON 9 FRAMESHIFT,7
+957,[Gene]_CSF3R,7
+958,[Variant]_CSF3R:MUTATION,0
+959,[Disease]_Chronic Neutrophilic Leukemia,7
+960,[Disease]_Atypical Chronic Myeloid Leukemia,1
+961,[Variant]_BRAF:V600K,7
+962,"[Drug]_Cetuximab,Gefitinib,Vemurafenib",6
+963,[Variant]_SMAD4:LOSS,7
+964,"[Drug]_Panitumumab,Vemurafenib",7
+965,[Gene]_SF3B1,0
+966,[Variant]_SF3B1:K700E,7
+967,[Drug]_Spliceostatin A,5
+968,[Variant]_SF3B1:K666N,7
+969,[Gene]_MAP2K7,7
+970,[Variant]_MAP2K7:E116K,7
+971,"[Drug]_Cobimetinib,Vemurafenib",7
+972,[Disease]_Chronic Leukemia,7
+973,[Variant]_PDGFRA:PDGFRA FUSIONS,1
+974,[Gene]_ZRSR2,1
+975,[Disease]_Chronic Myelomonocytic Leukemia,0
+976,[Variant]_ZRSR2:Oncogenic Mutations,7
+977,[Variant]_SF3B1:Oncogenic Mutations,3
+978,[Variant]_SRSF2:Oncogenic Mutations,7
+979,[Gene]_SRSF2,7
+980,[Variant]_U2AF1:Oncogenic Mutations,7
+981,[Variant]_PDGFRB:PDGFRB FUSIONS,7
+982,[Variant]_FGFR1:FGFR1 FUSIONS,7
+983,"[Drug]_Dactolisib,GDC-0879",6
+984,"[Drug]_Omipalisib,Trametinib",1
+985,[Disease]_Gastrointestinal Neuroendocrine Tumor,7
+986,"[Drug]_Dabrafenib,Trametinib,Vemurafenib",7
+987,"[Disease]_Myeloid And Lymphoid Neoplasms With Eosinophilia And Abnormalities Of PDGFRA, PDGFRB, And FGFR1",4
+988,[Variant]_JAK2:PCM1-JAK2,7
+989,"[Drug]_Pertuzumab,Docetaxel,Trastuzumab",6
+990,[Variant]_MTOR:E2014K and E2419K,0
+991,[Gene]_MSH6,7
+992,[Gene]_MSH2,7
+993,[Variant]_RICTOR:AMPLIFICATION,6
+994,"[Drug]_Sapanisertib,Onatasertib",2
+995,[Variant]_PDGFRA:FIP1L1-PDGFRA,7
+996,[Disease]_Bronchiolo-alveolar Adenocarcinoma,7
+997,[Variant]_ROS1:TFG-ROS1,2
+998,[Variant]_PDGFRA:FIP1L1-PDGFRA T674I,7
+999,"[Drug]_Pilaralisib,Trastuzumab",7
+1000,[Variant]_BIRC5:OVEREXPRESSION,5
+1001,[Variant]_BRAF:D594A,5
+1002,"[Drug]_Mitogen-Activated Protein Kinase Kinase Inhibitor,Sorafenib",7
+1003,"[Drug]_Trastuzumab,PI3K/BET Inhibitor LY294002",6
+1004,[Variant]_BRAF:D594V,4
+1005,"[Drug]_Trametinib,Sorafenib",6
+1006,[Variant]_BRAF:K483M,1
+1007,"[Drug]_Trametinib,Vemurafenib",7
+1008,[Variant]_BRAF:L597S,7
+1009,"[Drug]_Vemurafenib,Trametinib",7
+1010,[Drug]_MEK Inhibitor TAK-733,7
+1011,[Variant]_BRAF:L597Q,1
+1012,[Variant]_BRAF:K601E,7
+1013,[Variant]_BRAF:L597V,5
+1014,[Drug]_Taselisib,0
+1015,[Variant]_KIT:AMPLIFICATION,1
+1016,[Disease]_Mucosal Melanoma,7
+1017,[Variant]_NF1:MUTATION,7
+1018,"[Drug]_MEK Inhibitor PD0325901,Sirolimus",1
+1019,"[Drug]_VTX-11e,AZ628",7
+1020,[Drug]_Amuvatinib,7
+1021,"[Drug]_Sonidegib,Vismodegib",6
+1022,[Disease]_Chronic Lymphocytic Leukemia,1
+1023,[Drug]_Alemtuzumab,7
+1024,[Drug]_Peginterferon Alfa-2a,7
+1025,[Variant]_ALK:HIP1-ALK I1171N,7
+1026,"[Drug]_Alectinib,Crizotinib",0
+1027,[Variant]_ALK:EML4-ALK I1171S,4
+1028,[Gene]_BIRC3,2
+1029,[Variant]_BIRC3:TRUNCATING MUTATION,7
+1030,"[Drug]_Taselisib,Radiation Therapy",7
+1031,[Drug]_Ipatasertib,2
+1032,[Disease]_Ovarian Clear Cell Carcinoma,6
+1033,[Drug]_GSK126,7
+1034,"[Drug]_Paclitaxel,Carboplatin,Sorafenib",7
+1035,[Variant]_RAF1:AMPLIFICATION,7
+1036,[Variant]_KRAS:AMPLIFICATION,1
+1037,"[Drug]_Docetaxel,Carboplatin,Sorafenib",5
+1038,"[Drug]_Capivasertib,Docetaxel",7
+1039,"[Drug]_Trastuzumab,Capivasertib",7
+1040,"[Drug]_Capivasertib,Lapatinib",5
+1041,[Variant]_CEBPA:BIALLELIC INACTIVATION,7
+1042,[Variant]_SRSF2:MUTATION,7
+1043,[Variant]_NRAS:G12/G13,7
+1044,[Variant]_RET:OVEREXPRESSION,0
+1045,[Disease]_Papillary Adenocarcinoma,7
+1046,[Gene]_CTLA4,7
+1047,[Variant]_CTLA4:CTLA4-CD28,7
+1048,[Disease]_Sezary's Disease,1
+1049,[Drug]_Ipilimumab,1
+1050,[Variant]_AR:MUTATION,5
+1051,"[Drug]_Bicalutamide,Flutamide,Cyproterone Acetate,Nilutamide",1
+1052,"[Drug]_Alpelisib,PI3Kbeta Inhibitor AZD8186,Enzalutamide",7
+1053,[Variant]_NOTCH1:LOSS-OF-FUNCTION,4
+1054,[Drug]_Porcupine Inhibitor WNT974,4
+1055,[Gene]_CDK6,7
+1056,[Variant]_CDK6:OVEREXPRESSION,4
+1057,"[Drug]_Palbociclib,Fulvestrant",0
+1058,[Variant]_FLT3:OVEREXPRESSION,7
+1059,[Gene]_NTRK3,7
+1060,[Gene]_CRLF2,0
+1061,[Drug]_Platinum Compound,7
+1062,[Variant]_GNAQ:Q209P,7
+1063,[Variant]_PTEN:V317FS,1
+1064,"[Drug]_MEK Inhibitor CI-1040,Akt Inhibitor MK2206",7
+1065,[Variant]_RB1:LOSS-OF-FUNCTION,2
+1066,[Drug]_PLX4720,1
+1067,[Gene]_ESR1,1
+1068,[Variant]_ESR1:OVEREXPRESSION,7
+1069,[Disease]_Her2-receptor Negative Breast Cancer,0
+1070,"[Drug]_Palbociclib,Letrozole",3
+1071,[Variant]_MTOR:M2327I,1
+1072,[Drug]_MTOR Kinase Inhibitor AZD8055,1
+1073,"[Drug]_Sirolimus,RapaLink-1",1
+1074,[Variant]_MTOR:A2034V,0
+1075,"[Drug]_RapaLink-1,MTOR Kinase Inhibitor AZD8055",3
+1076,[Drug]_Apitolisib,7
+1077,[Variant]_BRAF:D594G,7
+1078,[Variant]_FLT3:D835H,7
+1079,[Variant]_FLT3:D835H/Y,7
+1080,"[Drug]_Palbociclib,Trastuzumab",7
+1081,[Variant]_JAK1:Q503*,7
+1082,[Variant]_Other Biomarkers:Tumor Mutational Burden-High,0
+1083,[Drug]_Pembrolizumab,7
+1084,[Variant]_JAK2:c.1641+1dup,7
+1085,[Variant]_B2M:S14FS,7
+1086,[Variant]_BRAF:PPFIBP2-BRAF,3
+1087,[Variant]_BRAF:KIAA1549-BRAF,7
+1088,[Variant]_EGFR:EXPRESSION,4
+1089,[Disease]_Langerhans-cell Histiocytosis,4
+1090,[Variant]_MET:OVEREXPRESSION,3
+1091,"[Drug]_Crizotinib,Vemurafenib",7
+1092,[Gene]_POT1,1
+1093,[Variant]_POT1:MUTATION,7
+1094,[Gene]_MKI67,7
+1095,[Variant]_MKI67:EXPRESSION,7
+1096,[Disease]_Pseudomyxoma Peritonei,5
+1097,[Variant]_RAD23B:EXPRESSION,7
+1098,[Drug]_Vorinostat,7
+1099,"[Drug]_Cetuximab,Vemurafenib",0
+1100,"[Drug]_Ribociclib,Phosphatidylinositide 3-Kinase Inhibitor",7
+1101,[Variant]_RET:CCDC6-RET,0
+1102,[Drug]_Nintedanib,7
+1103,[Variant]_MAP2K1:C121S,7
+1104,[Variant]_FGFR3:S249C,0
+1105,[Drug]_Dovitinib,1
+1106,[Variant]_FGFR2:AMPLIFICATION,7
+1107,[Gene]_FGF3,7
+1108,[Variant]_FGF3:AMPLIFICATION,1
+1109,"[Drug]_Palbociclib,Phosphatidylinositide 3-Kinase Inhibitor",4
+1110,[Variant]_VHL:R200W (c.598C>T),1
+1111,[Disease]_Chuvash Polycythemia,3
+1112,[Variant]_JAK2:PCM1-JAK2 Fusion,4
+1113,[Drug]_Ruxolitinib,7
+1114,"[Disease]_Chronic Eosinophilic Leukemia, NOS",6
+1115,"[Disease]_B-lymphoblastic Leukemia/lymphoma, BCR-ABL1�like",7
+1116,[Variant]_RB1:PHOSPHORYLATION,7
+1117,"[Drug]_Everolimus,MTOR Kinase Inhibitor PP242",7
+1118,[Gene]_PIK3R1,7
+1119,[Variant]_PIK3R1:MUTATION,1
+1120,[Drug]_MTOR Kinase Inhibitor PP242,7
+1121,"[Drug]_Ipilimumab,Nivolumab",7
+1122,[Variant]_STK11:D194E,2
+1123,[Disease]_Peutz-Jeghers Syndrome,6
+1124,"[Drug]_Sirolimus,Everolimus",7
+1125,[Variant]_AKT2:AMPLIFICATION,7
+1126,"[Drug]_Vandetanib,Everolimus",3
+1127,"[Drug]_Fulvestrant,Everolimus",0
+1128,[Disease]_Thyroid Gland Cancer,7
+1129,"[Drug]_Temsirolimus,Perifosine",7
+1130,"[Drug]_Perifosine,Temsirolimus",0
+1131,[Variant]_PTEN:R130*,0
+1132,[Variant]_FBXW7:LOSS-OF-FUNCTION,7
+1133,[Variant]_RB1:M695FS*26,0
+1134,[Variant]_JUN:OVEREXPRESSION,6
+1135,[Drug]_Irbesartan,7
+1136,[Gene]_FOS,7
+1137,[Variant]_FOS:OVEREXPRESSION,7
+1138,[Variant]_CDKN2A:RS3814960,7
+1139,[Variant]_MDM2:RS34886328,7
+1140,[Gene]_CBLB,1
+1141,[Variant]_CBLB:RS2305035,7
+1142,[Gene]_PRDM1,2
+1143,[Variant]_PRDM1:MUTATION,1
+1144,[Variant]_IDH1:MUTATION,1
+1145,"[Drug]_IMG-2005-5,IRAK-1/4 Inhibitor",4
+1146,"[Drug]_Refametinib,Sorafenib",7
+1147,[Gene]_PRKACA,7
+1148,[Disease]_Mixed Fibrolamellar Hepatocellular Carcinoma,6
+1149,[Variant]_SMAD4:DELETION,7
+1150,[Variant]_LRP1B:DELETION,7
+1151,[Gene]_ATRX,7
+1152,[Variant]_ATRX:UNDEREXPRESSION,7
+1153,[Disease]_Astrocytoma,7
+1154,"[Drug]_PCV Regimen,Temozolomide",1
+1155,[Variant]_MET:D1228N,2
+1156,[Variant]_CASP8:D302H,6
+1157,[Variant]_AXL:EXPRESSION,7
+1158,[Variant]_GAS6:EXPRESSION,1
+1159,[Gene]_ETV4,7
+1160,[Variant]_ETV4:OVEREXPRESSION,6
+1161,[Gene]_STAG3,1
+1162,[Variant]_STAG3:UNDEREXPRESSION,3
+1163,[Variant]_MAP2K1:Q56_V60del,1
+1164,[Variant]_BRAF:BRAF-CUL1,7
+1165,[Drug]_Mitogen-Activated Protein Kinase Kinase Inhibitor,3
+1166,[Variant]_BRAF:ZKSCAN1-BRAF,7
+1167,"[Drug]_Temsirolimus,Bevacizumab,Sorafenib",7
+1168,"[Drug]_Erlotinib,Gefitinib,Afatinib",2
+1169,[Variant]_BRAF:L505H,7
+1170,"[Drug]_Erlotinib,Afatinib,Gefitinib",3
+1171,[Variant]_HIF1A:EXPRESSION,1
+1172,"[Drug]_Cediranib,Olaparib",7
+1173,[Variant]_BRCA2:D3095E,4
+1174,[Variant]_MLH1:EXPRESSION,0
+1175,[Gene]_BCOR,2
+1176,[Variant]_BCOR:MUTATION,2
+1177,[Variant]_CDH1:MUTATION,3
+1178,[Variant]_RHOA:MUTATION,1
+1179,[Gene]_AKT3,1
+1180,[Variant]_ERBB2:MUTATION,7
+1181,[Gene]_MEN1,1
+1182,[Variant]_MEN1:FRAMESHIFT TRUNCATION,7
+1183,[Disease]_Thyroid Gland Hurthle Cell Carcinoma,1
+1184,[Variant]_KMT2C:MUTATION,1
+1185,[Variant]_STAG2:MUTATION,7
+1186,[Variant]_EGFR:MUTATION,7
+1187,[Gene]_MYCL,7
+1188,[Variant]_MYCL:EXPRESSION,1
+1189,[Disease]_Multiple Myeloma,7
+1190,"[Drug]_I-BET151,JQ1",7
+1191,[Gene]_HGF,7
+1192,[Variant]_HGF:EXPRESSION,7
+1193,[Drug]_MET Tyrosine Kinase Inhibitor SGX523,7
+1194,[Gene]_SOX10,7
+1195,[Variant]_SOX10:LOSS,7
+1196,[Gene]_FGF2,7
+1197,[Variant]_FGF2:EXPRESSION,0
+1198,[Variant]_FLT3:Internal tandem duplication,1
+1199,[Drug]_Quizartinib,1
+1200,[Gene]_EIF1AX,6
+1201,[Variant]_EIF1AX:MUTATION,7
+1202,[Variant]_PAX8:EXPRESSION,7
+1203,[Disease]_Female Reproductive Organ Cancer,7
+1204,[Gene]_ERRFI1,7
+1205,[Variant]_ERRFI1:E384*,1
+1206,[Variant]_ESR1:S463P,3
+1207,[Drug]_Aromatase Inhibitor,0
+1208,[Gene]_SGK1,7
+1209,[Variant]_SGK1:OVEREXPRESSION,7
+1210,"[Drug]_Alpelisib,SGK1-Inh",1
+1211,[Drug]_CDK Inhibitor SNS-032,7
+1212,[Disease]_Ovarian Serous Cystadenocarcinoma,7
+1213,"[Drug]_Dinaciclib,Akt Inhibitor MK2206",7
+1214,[Variant]_BRAF:G596C,3
+1215,[Disease]_Thyroid Gland Anaplastic Carcinoma,3
+1216,"[Drug]_Trametinib,Dabrafenib",1
+1217,[Variant]_SMARCB1:UNDEREXPRESSION,0
+1218,[Variant]_SMARCB1:Oncogenic Mutations,7
+1219,[Drug]_Tazemetostat,7
+1220,[Disease]_All Liquid Tumors,5
+1221,[Variant]_KDM6A:Oncogenic Mutations,1
+1222,[Disease]_Follicular Lymphoma,7
+1223,"[Variant]_EZH2:A682G, A692V, Y646C, Y646F, Y646H, Y646N, Y646S",6
+1224,[Disease]_Epithelioid Sarcoma,7
+1225,[Variant]_SMARCB1:Deletion,0
+1226,[Disease]_Rhabdoid Cancer,7
+1227,[Variant]_SMARCB1:DELETION,7
+1228,[Variant]_NF2:LOSS,7
+1229,[Variant]_NF1:LOSS,7
+1230,[Drug]_JQ1 Compound,1
+1231,[Gene]_SH2B3,7
+1232,[Variant]_SH2B3:RS3184504,0
+1233,[Variant]_KIF23:EXPRESSION,7
+1234,[Variant]_ERBB3:V104M,7
+1235,[Variant]_ERBB3:R103G,7
+1236,[Variant]_ERBB3:G284R,7
+1237,[Gene]_GADD45A,2
+1238,[Variant]_GADD45A:rs681673,7
+1239,[Variant]_EWSR1:EWSR1-FLI1,7
+1240,[Variant]_BRCA2:TRUNCATING MUTATION,1
+1241,[Variant]_BRCA1:Alu insertion,2
+1242,[Gene]_HOXB13,7
+1243,[Variant]_HOXB13:G84E,7
+1244,[Variant]_KLLN:PROMOTER METHYLATION,7
+1245,[Gene]_CRBN,7
+1246,[Variant]_CRBN:MUTATION,7
+1247,"[Drug]_Lenalidomide,Pomalidomide",0
+1248,[Gene]_TSC1,1
+1249,[Variant]_TSC1:R1062W,5
+1250,[Disease]_Tuberous Sclerosis,0
+1251,[Variant]_STK11:MUTATION,7
+1252,[Variant]_PDGFRA:AMPLIFICATION,7
+1253,[Variant]_DDIT3:EWSR1-DDIT3,7
+1254,[Disease]_Myxoid Liposarcoma,1
+1255,[Gene]_BRD4,6
+1256,[Variant]_BRD4:BRD4-NUTM1,7
+1257,[Variant]_EGFR:S720,7
+1258,[Gene]_CYP2D6,7
+1259,[Variant]_CYP2D6:LOSS-OF-FUNCTION,7
+1260,[Variant]_DDIT3:FUS-DDIT3,7
+1261,[Variant]_EGFR:K757R,1
+1262,[Variant]_EGFR:E746G,7
+1263,[Variant]_MLH1:E13FS*3,0
+1264,[Gene]_EPCAM,7
+1265,[Disease]_Lynch Syndrome,1
+1266,[Variant]_MSH2:R383*,7
+1267,[Variant]_MLH1:V534R,7
+1268,[Gene]_UGT1A1,7
+1269,[Variant]_UGT1A1:UGT1A1*28,6
+1270,[Drug]_Belinostat,0
+1271,[Variant]_MLH1:G606FS*2,7
+1272,[Variant]_MLH1:c.790+1G>A,7
+1273,[Variant]_UGT1A1:UGT1A1*60,6
+1274,[Variant]_MLH1:K618DEL,7
+1275,[Variant]_MLH1:R687FS,7
+1276,[Variant]_EGFR:V769_770insASV,7
+1277,[Gene]_DPYD,0
+1278,[Variant]_DPYD:DPYD*2A HOMOZYGOSITY,7
+1279,"[Drug]_Capecitabine,Fluorouracil,Tegafur",0
+1280,[Variant]_DPYD:DPYD*13 HOMOZYGOSITY,0
+1281,"[Drug]_Tegafur,Fluorouracil,Capecitabine",1
+1282,[Variant]_FOS:TRUNCATING FUSION,1
+1283,[Disease]_Bone Epithelioid Hemangioma,3
+1284,[Variant]_DPYD:RS67376798 HOMOZYGOSITY,7
+1285,"[Drug]_Tegafur,Capecitabine,Fluorouracil",7
+1286,[Variant]_MLH1:R100*,7
+1287,[Gene]_WWTR1,7
+1288,[Variant]_WWTR1:WWTR1-CAMTA1,7
+1289,[Disease]_Malignant Epithelioid Hemangioendothelioma,7
+1290,[Variant]_MLH1:T117M,4
+1291,[Variant]_MLH1:Q426FS,7
+1292,[Variant]_MLH1:V49A,1
+1293,[Variant]_EGFR:EXON 20 INSERTION,1
+1294,[Variant]_MLH1:D667FS,0
+1295,[Variant]_MLH1:M1L,7
+1296,[Variant]_MLH1:*757L,7
+1297,[Variant]_MLH1:R265G,0
+1298,[Variant]_MLH1:V213FS,7
+1299,[Variant]_MLH1:N551T,1
+1300,[Variant]_MLH1:A424T,4
+1301,[Variant]_MLH1:Q149*,1
+1302,[Variant]_MLH1:R226*,0
+1303,[Variant]_MLH1:P536FS,7
+1304,[Variant]_MLH1:G67R,7
+1305,[Variant]_MLH1:I68S,2
+1306,[Variant]_MLH1:G65D,7
+1307,[Variant]_MLH1:A681V,7
+1308,[Variant]_MSH6:P138T,0
+1309,[Variant]_MSH2:V273FS,1
+1310,[Variant]_MSH2:E28FS,7
+1311,[Variant]_VHL:E55FS (c.163_164delGA),7
+1312,[Disease]_Von Hippel-Lindau Disease,7
+1313,[Variant]_MSH6:I891FS,1
+1314,[Variant]_VHL:E55RfsTer11 (c.163delG),7
+1315,[Variant]_MSH6:R1242H,1
+1316,[Variant]_MLH1:M490T,7
+1317,[Variant]_MSH2:K172*,7
+1318,[Variant]_VHL:A56FS (c.164_165insG),1
+1319,[Variant]_MSH2:E483G,7
+1320,[Variant]_PDGFRA:TNKS2-PDGFRA,7
+1321,[Variant]_MSH6:V352I,1
+1322,[Variant]_MSH6:R1242C,7
+1323,[Gene]_SLCO1B1,7
+1324,[Variant]_SLCO1B1:RS4149056,0
+1325,[Drug]_Methotrexate,7
+1326,[Variant]_SLCO1B1:N130D,6
+1327,[Variant]_TYMS:RS34743033,7
+1328,[Gene]_GLI1,7
+1329,[Variant]_GLI1:ACTB-GLI1,7
+1330,[Disease]_Pericytoma,7
+1331,[Variant]_ERBB3:V855A,7
+1332,"[Drug]_Pertuzumab,Afatinib",7
+1333,[Variant]_FGFR2:FGFR2-BICC1,7
+1334,[Variant]_FGFR2:FGFR2-AHCYL1,0
+1335,[Variant]_CDKN2B:METHYLATION,7
+1336,[Variant]_CHEK2:1100DELC,7
+1337,"[Drug]_PD173074,Infigratinib",6
+1338,[Variant]_CHEK2:I157T,7
+1339,[Variant]_CHEK2:IVS2+1G>A,2
+1340,[Variant]_PTPRD:V253I,7
+1341,"[Drug]_Teprotumumab,Cixutumumab",1
+1342,[Variant]_VHL:A56fs (c.164_165insA),7
+1343,[Variant]_VHL:E55= (c.165G>A),1
+1344,[Variant]_RRM1:OVEREXPRESSION,7
+1345,[Variant]_RRM2:OVEREXPRESSION,7
+1346,[Variant]_POLE:MUTATION,0
+1347,[Variant]_MET:D1228V,7
+1348,[Drug]_Savolitinib,7
+1349,[Variant]_RB1:MUTATION,7
+1350,[Variant]_NTRK1:SQSTM1-NTRK1,7
+1351,[Drug]_Entrectinib,7
+1352,[Variant]_ROS1:Fusions,7
+1353,[Disease]_Salivary Gland Carcinoma,5
+1354,[Variant]_NTRK3:ETV6-NTRK3,7
+1355,[Gene]_RUNX1,7
+1356,[Variant]_RUNX1:K83E,7
+1357,[Variant]_RUNX1:Y260*,6
+1358,[Variant]_RUNX1:R135FSX177,7
+1359,[Variant]_NTRK3:ETV6-NTRK3 G623R,7
+1360,[Variant]_RUNX1:D198Y,7
+1361,[Variant]_RUNX1:A107P,7
+1362,[Variant]_MSH2:LOSS,7
+1363,"[Drug]_Anti-PD-1 Monoclonal Antibody MEDI0680,Durvalumab",2
+1364,[Variant]_MSH6:LOSS,7
+1365,[Disease]_Ewing Sarcoma,1
+1366,"[Drug]_Palbociclib,Linsitinib",7
+1367,[Variant]_PDGFB:COL1A1-PDGFB Fusion,1
+1368,[Disease]_Dermatofibrosarcoma Protuberans,7
+1369,[Gene]_PDGFB,1
+1370,[Variant]_RUNX1:T148HFSX9,7
+1371,[Gene]_DDX41,0
+1372,[Variant]_DDX41:R164W,7
+1373,[Variant]_ERBB2:G776L,7
+1374,[Variant]_ERBB2:G778_P780DUP,7
+1375,[Variant]_ERBB2:M774DELINSWLV,7
+1376,[Variant]_PTPRB:LOSS-OF-FUNCTION,6
+1377,[Variant]_VHL:A149S (c.445G>T),2
+1378,[Drug]_Rucaparib,7
+1379,"[Disease]_Prostate Cancer, NOS",4
+1380,[Disease]_Peritoneal Serous Carcinoma,2
+1381,[Drug]_Therapeutic Tumor Infiltrating Lymphocytes,7
+1382,[Gene]_HLA-C,4
+1383,[Variant]_HLA-C:COPY-NEUTRAL LOSS OF HETEROZYGOSITY,7
+1384,[Variant]_JAK1:S703I,7
+1385,[Variant]_EPCAM:3' EXON DELETION,7
+1386,"[Drug]_Vemurafenib,Irinotecan,Cetuximab",1
+1387,[Gene]_ARAF,7
+1388,[Variant]_ARAF:S490T,2
+1389,"[Drug]_Irinotecan,Vemurafenib,Cetuximab",7
+1390,[Variant]_GNAS:R201C,7
+1391,"[Drug]_Cetuximab,Vemurafenib,Irinotecan",7
+1392,[Variant]_FGFR3:MUTATION,7
+1393,[Variant]_FGFR2:FGFR2 fusions,7
+1394,[Variant]_VHL:M54IFS (c.162_166delGGAGG),7
+1395,[Variant]_FGFR2:Fusions,7
+1396,[Drug]_Erdafitinib,7
+1397,"[Variant]_FGFR3:G370C, R248C, S249C, Y373C",7
+1398,[Variant]_FGFR3:Fusions,7
+1399,[Disease]_Adrenal Carcinoma,7
+1400,[Variant]_FGFR3:FGFR3-TACC3,7
+1401,[Variant]_AKT3:OVEREXPRESSION,7
+1402,[Drug]_Pan-AKT Kinase Inhibitor GSK690693,7
+1403,"[Drug]_Pol I Inhibitor CX5461,Quarfloxin",1
+1404,[Variant]_PTEN:R173C,7
+1405,[Disease]_Endometrial Hyperplasia,0
+1406,[Disease]_PTEN Hamartoma Tumor Syndrome,1
+1407,[Variant]_ALK:ALTERNATIVE TRANSCRIPT (ATI),7
+1408,[Variant]_VHL:EXON 1-3 DELETION,4
+1409,[Variant]_VHL:EXON 1 DELETION,7
+1410,[Variant]_VHL:EXON 1-2 DELETION,7
+1411,[Variant]_VHL:M1FS (c.1_17del17),7
+1412,[Variant]_VHL:M1? (c.1-1_20del21),7
+1413,[Variant]_VHL:M1? (c.3G>A),7
+1414,[Variant]_VHL:N7D (c.19A>G),1
+1415,[Variant]_VHL:P25L (c.74C>T),2
+1416,[Variant]_VHL:P59fs (c.173_174insC),7
+1417,[Variant]_VHL:Y98FS (c.291_310del20),7
+1418,"[Drug]_Sotrastaurin Acetate,MEK Inhibitor PD0325901",7
+1419,[Disease]_Plexiform Neurofibroma,7
+1420,[Variant]_NTRK1:EXPRESSION,0
+1421,[Variant]_PDGFRA:P577S,7
+1422,"[Drug]_Crenolanib,Imatinib",7
+1423,[Variant]_PDGFRA:R841K,0
+1424,"[Drug]_Imatinib,Crenolanib",7
+1425,[Variant]_PDGFRA:H845Y,7
+1426,[Variant]_PDGFRA:G853D,7
+1427,"[Drug]_Cetuximab,Crizotinib",7
+1428,[Gene]_MTAP,7
+1429,[Variant]_MTAP:Underexpression,7
+1430,[Drug]_Pyrimidine Antagonist,7
+1431,[Gene]_VPS37A,7
+1432,[Variant]_VPS37A:UNDEREXPRESSION,0
+1433,[Disease]_Chordoma,7
+1434,[Gene]_BTK,7
+1435,[Variant]_BTK:T316A,7
+1436,[Variant]_ERBB2:T862A,7
+1437,[Variant]_ERBB2:V773A,7
+1438,[Variant]_ERBB2:N857S,7
+1439,[Variant]_ERBB2:H878Y,7
+1440,[Drug]_FGFR Inhibitor AZD4547,7
+1441,[Variant]_ERBB2:OVEREXPRESSION,7
+1442,[Variant]_GNAS:R201,7
+1443,[Variant]_GNAS:c.393T>C,0
+1444,[Disease]_Intrahepatic Cholangiocarcinoma,7
+1445,[Disease]_Breast Carcinoma,7
+1446,[Variant]_PIK3CA:C420R,7
+1447,[Variant]_NRAS:G12D,7
+1448,"[Drug]_Cetuximab,Irinotecan",1
+1449,[Drug]_Melphalan,7
+1450,"[Drug]_Bevacizumab,Sunitinib",7
+1451,[Drug]_Pictilisib Bismesylate,7
+1452,[Variant]_PIK3CA:WILD TYPE,4
+1453,[Drug]_Aspirin,6
+1454,[Drug]_PI103,7
+1455,[Variant]_PIK3CA:RARE MUTATION,7
+1456,"[Drug]_Oxaliplatin,Bevacizumab,Capecitabine",7
+1457,[Variant]_EGFR:Ex19 del L858R,0
+1458,[Drug]_Canertinib,4
+1459,[Variant]_ABL1:BCR-ABL F359V,7
+1460,[Variant]_ABL1:BCR-ABL1 Fusion,7
+1461,[Drug]_Nilotinib,1
+1462,[Disease]_Chronic Myelogenous Leukemia,7
+1463,[Disease]_B-Lymphoblastic Leukemia/Lymphoma,4
+1464,"[Variant]_ABL1:F317C, F317I, F317L, F317V, T315A, V299L",7
+1465,[Disease]_Chronic Myeloid Leukemia,7
+1466,"[Drug]_Cetuximab,Chemotherapy",7
+1467,[Variant]_PIK3CA:Q546K,7
+1468,"[Drug]_Irinotecan,Cetuximab",7
+1469,[Variant]_NRAS:G13R,7
+1470,[Variant]_KRAS:A146T,3
+1471,[Variant]_PIK3CA:E545Q,0
+1472,[Variant]_ATM:T2666A,7
+1473,[Variant]_ATM:R3008C,7
+1474,[Variant]_ATM:c.902-1G>T,0
+1475,[Variant]_KRAS:A146P,7
+1476,[Variant]_KRAS:G12S,7
+1477,[Variant]_TP53:R273L,7
+1478,"[Drug]_Etoposide,Cisplatin,Mitomycin",7
+1479,[Variant]_TP53:Y220C,0
+1480,"[Drug]_Cisplatin,Etoposide,Mitomycin",7
+1481,[Drug]_EAP Protocol,7
+1482,[Variant]_IDH1:Oncogenic Mutations,0
+1483,[Drug]_Ivosidenib,7
+1484,[Drug]_BPTES,3
+1485,[Variant]_KIT:T417_D419delinsY,7
+1486,[Variant]_KIT:F506_F508DUP,1
+1487,[Variant]_KIT:N822H,7
+1488,[Variant]_KIT:N822K,7
+1489,[Variant]_PDGFRA:V561D,7
+1490,[Variant]_PDGFRA:D842_H845DELDIMH,7
+1491,[Variant]_KIT:K484_G487DEL,7
+1492,[Variant]_KIT:V560G,7
+1493,[Variant]_KIT:K642E,7
+1494,[Variant]_KIT:EXON 13 MUTATION,7
+1495,[Variant]_KIT:W557_K558DELWK,2
+1496,[Variant]_KIT:Y503_F504insAY,7
+1497,[Variant]_PDGFRA:EXON 18 MUTATION,7
+1498,[Variant]_KIT:D579DEL,4
+1499,[Variant]_EGFR:G719A,7
+1500,[Variant]_EGFR:WILDTYPE,1
+1501,[Variant]_EGFR:E746_A750del,7
+1502,[Variant]_ABL1:BCR-ABL M244V,4
+1503,[Variant]_ABL1:BCR-ABL L248V,6
+1504,"[Drug]_Nilotinib,Imatinib Mesylate,Dasatinib",7
+1505,[Variant]_ABL1:BCR-ABL G250E,7
+1506,[Variant]_ABL1:BCR-ABL Q252H,7
+1507,[Variant]_ABL1:BCR-ABL Y253H,1
+1508,"[Drug]_Nilotinib,Imatinib Mesylate",7
+1509,[Variant]_ABL1:Y253F,7
+1510,[Variant]_ABL1:BCR-ABL E255V,6
+1511,[Variant]_ABL1:BCR-ABL D276G,7
+1512,[Variant]_ABL1:BCR-ABL E355G,0
+1513,"[Drug]_Bafetinib,Nilotinib",4
+1514,[Variant]_ABL1:S417Y,7
+1515,[Variant]_ABL1:BCR-ABL M351T,7
+1516,[Variant]_ABL1:BCR-ABL H396R,7
+1517,[Variant]_TP53:OVEREXPRESSION,6
+1518,[Variant]_TP53:Y234C,7
+1519,[Variant]_TP53:ALTERATION,7
+1520,"[Drug]_Mitomycin,Cisplatin,Etoposide",7
+1521,[Variant]_TP53:R282L,7
+1522,[Variant]_TP53:R213P,7
+1523,"[Drug]_Cisplatin,Etoposide,Doxorubicin",7
+1524,[Variant]_ABL1:BCR-ABL F486S,7
+1525,[Variant]_ATM:c.7089+1del,7
+1526,[Variant]_ATM:c.7515+1_2del,7
+1527,[Variant]_ATM:K293*,7
+1528,[Variant]_ATM:F1025L,4
+1529,[Variant]_ATM:D1930V,7
+1530,[Variant]_ATM:E2187*,7
+1531,[Variant]_ATM:L2427P,7
+1532,[Variant]_ATM:F2732V,7
+1533,[Variant]_ATM:K468FS,7
+1534,[Variant]_ATM:D1682H,7
+1535,[Variant]_ATM:A2062V,7
+1536,[Variant]_ATM:C2488Y,0
+1537,"[Drug]_Imatinib Mesylate,Nilotinib",7
+1538,[Variant]_ABL1:BCR-ABL E292V,7
+1539,[Variant]_ABL1:BCR-ABL F359C,7
+1540,[Variant]_ABL1:BCR-ABL L384M,7
+1541,[Variant]_ABL1:BCR-ABL V299L,7
+1542,[Variant]_ABL1:BCR-ABL L387F,7
+1543,[Variant]_ABL1:BCR-ABL G398R,7
+1544,[Variant]_PIK3CA:K111N,7
+1545,[Variant]_PIK3CA:I391M,7
+1546,[Variant]_BRCA1:Q1467*,3
+1547,[Variant]_BRCA2:M1R,7
+1548,[Variant]_BRCA2:M1I,7
+1549,[Variant]_BRCA2:V159M,7
+1550,[Variant]_BRCA2:V211L,7
+1551,[Variant]_BRCA2:V211I,7
+1552,[Variant]_BRCA2:R2336P,7
+1553,[Variant]_KIT:D820Y,7
+1554,[Disease]_Bladder Urothelial Carcinoma,7
+1555,[Variant]_MGMT:UNDEREXPRESSION,7
+1556,[Disease]_Neuroendocrine Tumor,3
+1557,[Variant]_RRM1:UNDEREXPRESSION,4
+1558,[Disease]_Urinary Bladder Cancer,7
+1559,"[Drug]_Cisplatin,Gemcitabine",6
+1560,"[Drug]_Trametinib,Selumetinib",7
+1561,[Variant]_RET:C609Y,7
+1562,"[Drug]_FGF/VEGF Receptor Tyrosine Kinase Inhibitor, PD173074,Infigratinib,FGFR Inhibitor AZD4547",7
+1563,[Variant]_KIT:Y823D,7
+1564,[Variant]_KIT:C809G,7
+1565,[Variant]_KIT:D820A,7
+1566,[Variant]_KIT:D820G,7
+1567,[Variant]_KIT:D816H,7
+1568,[Variant]_KIT:T670I,7
+1569,"[Drug]_Nivolumab,Atezolizumab,Pembrolizumab",7
+1570,[Variant]_BRAF:AMPLIFICATION,7
+1571,"[Drug]_Panitumumab,Dabrafenib",1
+1572,"[Drug]_Binimetinib,Ribociclib",7
+1573,[Variant]_ROS1:G2032R,1
+1574,[Variant]_MAP2K1:K57N,7
+1575,[Gene]_CTAG1B,7
+1576,[Variant]_CTAG1B:OVEREXPRESSION,7
+1577,[Drug]_Autologous Anti-NY-ESO-1/LAGE-1 TCR-transduced C259 T Lymphocytes GSK3377794,7
+1578,[Gene]_CTAG2,7
+1579,[Variant]_CTAG2:OVEREXPRESSION,1
+1580,[Variant]_NTRK3:NTRK3 FUSIONS,7
+1581,[Variant]_NTRK1:LMNA-NTRK1 e2-e11,4
+1582,[Variant]_NTRK1:AMPLIFICATION,3
+1583,[Variant]_NTRK3:AMPLIFICATION,7
+1584,[Variant]_NTRK1:LMNA-NTRK1 e11-e10,7
+1585,[Variant]_NTRK1:LMNA-NTRK1 G595R and G667C,7
+1586,[Drug]_Nutlin-3a,7
+1587,[Drug]_AMGMDS3,7
+1588,[Drug]_RG7112,7
+1589,[Gene]_DCC,7
+1590,[Variant]_DCC:EXPRESSION,7
+1591,[Variant]_CTNNB1:T41A,1
+1592,[Disease]_Desmoid Tumor,7
+1593,[Variant]_CTNNB1:S45F,7
+1594,[Variant]_CTNNB1:S45P,7
+1595,[Gene]_ARID1A,7
+1596,[Variant]_ARID1A:LOSS-OF-FUNCTION,7
+1597,[Variant]_ALK:F1245V,7
+1598,[Variant]_CTNNB1:ACTIVATING MUTATION,7
+1599,"[Drug]_Anti-PD-L1 Monoclonal Antibody,Anti-CTLA-4 Monoclonal Antibody",1
+1600,[Gene]_MERTK,0
+1601,[Variant]_MERTK:OVEREXPRESSION,7
+1602,[Drug]_UNC1062,7
+1603,[Variant]_TP53:CONSERVED DOMAIN MUT,1
+1604,[Drug]_Radiation Therapy,7
+1605,[Variant]_MYC:OVEREXPRESSION,0
+1606,"[Drug]_Olaparib,Prexasertib,Cisplatin",7
+1607,[Variant]_FLT3:D835V,7
+1608,[Drug]_Tandutinib,7
+1609,"[Drug]_Cytarabine,Sunitinib",7
+1610,"[Drug]_Sunitinib,Daunorubicin",7
+1611,"[Drug]_Osimertinib,Rociletinib",7
+1612,[Variant]_KIT:V559D,1
+1613,"[Drug]_Dasatinib,Sunitinib,PD-180970,Tandutinib,Imatinib",7
+1614,"[Drug]_Tyrphostin AG 1296,AS602868",6
+1615,[Variant]_GNAS:R201H,6
+1616,[Drug]_Radioactive Iodine,7
+1617,[Variant]_BRAF:Non-V600,0
+1618,[Variant]_NRAS:Q61H,1
+1619,"[Drug]_Teprotumumab,Erlotinib",7
+1620,[Variant]_PIK3CA:E545G,6
+1621,"[Drug]_Cetuximab,FOLFOX-4 Regimen",7
+1622,[Disease]_Childhood Pilocytic Astrocytoma,7
+1623,"[Drug]_Erlotinib,Multikinase Inhibitor AEE788,Gefitinib",7
+1624,"[Drug]_Multikinase Inhibitor AEE788,Gefitinib,Erlotinib",7
+1625,[Drug]_Bosutinib,7
+1626,"[Variant]_ABL1:E255K, E255V, F317C, F317I, F317L, F317V, F359C, F359I, F359V, T315A, Y253H",7
+1627,[Drug]_Axitinib,1
+1628,[Variant]_PIK3CA:R88Q,7
+1629,[Variant]_NRAS:G12C,7
+1630,[Variant]_PIK3CA:G1049R,7
+1631,[Variant]_KRAS:Q61H,7
+1632,[Variant]_KRAS:Q61L,7
+1633,[Variant]_KRAS:Q61R,6
+1634,[Variant]_KRAS:Q61K,7
+1635,[Variant]_KRAS:A146,2
+1636,[Variant]_PIK3CA:N345K,7
+1637,[Variant]_KIT:V560_L576DEL,5
+1638,[Variant]_KIT:K550_K558del,7
+1639,[Variant]_KIT:V560D,7
+1640,"[Drug]_Imatinib,Ponatinib",7
+1641,"[Drug]_Regorafenib,Sunitinib",2
+1642,[Variant]_KIT:K558_V559del,7
+1643,[Variant]_KIT:A502_Y503insAY,0
+1644,[Variant]_BRAF:EXON 15 MUTATION,7
+1645,[Variant]_KIT:P551_E554delPMYE,3
+1646,"[Drug]_Regorafenib,Imatinib,Ponatinib,Sunitinib",7
+1647,"[Drug]_Imatinib,Dasatinib",7
+1648,[Variant]_KIT:WILDTYPE,7
+1649,[Variant]_EGFR:R108K,7
+1650,[Variant]_EGFR:T263P,7
+1651,[Variant]_EGFR:A289V,7
+1652,[Variant]_EGFR:V742A,1
+1653,[Variant]_EGFR:E746_T751>I,7
+1654,[Variant]_EGFR:G719D,7
+1655,[Variant]_EGFR:V774A,7
+1656,[Variant]_EGFR:V774M,7
+1657,[Variant]_EGFR:K806E,7
+1658,[Variant]_EGFR:N826Y,3
+1659,[Variant]_EGFR:V834I,1
+1660,[Variant]_EGFR:L838P,7
+1661,[Variant]_EGFR:N842S,7
+1662,[Variant]_EGFR:T847I,1
+1663,[Variant]_EGFR:V851I,7
+1664,[Variant]_EGFR:L747_P753delinsS,3
+1665,[Variant]_EGFR:D770_N771insSVD,7
+1666,[Variant]_EGFR:H773_V774insH,7
+1667,[Variant]_EGFR:R831H,7
+1668,[Variant]_EGFR:L838V,7
+1669,[Variant]_EGFR:L861,7
+1670,[Variant]_EGFR:E868G,4
+1671,[Variant]_ABL1:BCR-ABL L387M,7
+1672,[Variant]_PIK3CA:H1047L,7
+1673,[Variant]_ABL1:BCR-ABL L364I,7
+1674,"[Drug]_Imatinib,Regorafenib,Sunitinib",2
+1675,"[Drug]_Ponatinib,Regorafenib,Imatinib",7
+1676,[Variant]_PIK3CA:S158L,0
+1677,[Variant]_PIK3CA:E81K,7
+1678,"[Drug]_Cetuximab,Oxaliplatin,Fluorouracil",0
+1679,[Variant]_PIK3CA:R93W,7
+1680,[Variant]_EGFR:R776C,2
+1681,[Variant]_ABL1:L298V,7
+1682,[Variant]_ABL1:BCR-ABL F311I,7
+1683,[Variant]_ABL1:BCR-ABL E453Q,7
+1684,[Variant]_ARID1A:Q456*,7
+1685,[Variant]_EGFR:H773_V774insNPH,7
+1686,[Variant]_EGFR:D770_N771insGL,2
+1687,[Variant]_EGFR:A864T,7
+1688,[Variant]_EGFR:N826S,7
+1689,[Variant]_AKT3:E17K,7
+1690,[Variant]_ABL1:BCR-ABL F359I,1
+1691,[Variant]_ABL1:BCR-ABL M343T,7
+1692,[Variant]_ABL1:BCR-ABL F317V,7
+1693,[Variant]_ABL1:BCR-ABL E279K,7
+1694,[Variant]_ABL1:BCR-ABL Q300R,7
+1695,[Variant]_ABL1:BCR-ABL F311L,7
+1696,[Variant]_ABL1:BCR-ABL N331S,7
+1697,[Variant]_ABL1:BCR-ABL L364P,7
+1698,[Variant]_ABL1:BCR-ABL H396P,7
+1699,[Variant]_ABL1:BCR-ABL D421G,2
+1700,[Variant]_ABL1:BCR-ABL E450V,7
+1701,[Variant]_ABL1:BCR-ABL E453K,7
+1702,[Variant]_ABL1:BCR-ABL E453A,7
+1703,[Variant]_ABL1:BCR-ABL P480A,7
+1704,[Variant]_KIT:K550_W557del,7
+1705,"[Drug]_Imatinib,Ponatinib,Sunitinib,Regorafenib",7
+1706,[Variant]_KIT:K558NP,1
+1707,"[Drug]_Imatinib,Regorafenib,Ponatinib,Sunitinib",1
+1708,[Variant]_KIT:V569_L576DEL,0
+1709,[Variant]_BRCA1:W1815X,7
+1710,[Disease]_Endometrioid Ovary Carcinoma,7
+1711,"[Drug]_Regorafenib,Imatinib,Ponatinib",7
+1712,[Variant]_KIT:D816E,7
+1713,"[Drug]_Imatinib,Sunitinib",7
+1714,[Variant]_EGFR:D770_N771insGT,7
+1715,[Variant]_SMO:L412F,7
+1716,[Variant]_EGFR:W731L,7
+1717,[Variant]_EGFR:E734Q,3
+1718,[Variant]_EGFR:T785A,7
+1719,[Variant]_EGFR:C797Y,7
+1720,[Variant]_EGFR:Y801H,7
+1721,[Variant]_EGFR:A767_V769dupASV,7
+1722,[Variant]_EGFR:L747_S752delinsQ,7
+1723,[Variant]_EGFR:L861R,7
+1724,[Variant]_ABL1:BCR-ABL D363G,7
+1725,[Variant]_ABL1:BCR-ABL V379I,7
+1726,[Variant]_ABL1:BCR-ABL A397P,7
+1727,[Variant]_ABL1:BCR-ABL E98G,7
+1728,[Variant]_BRAF:G596R,1
+1729,[Variant]_EGFR:RARE Exon 18-21 Mutation,7
+1730,[Variant]_ABL1:C475V,7
+1731,[Variant]_ABL1:BCR-ABL N336S,7
+1732,[Gene]_POLD1,7
+1733,[Variant]_POLD1:C284Y,0
+1734,[Variant]_POLD1:E374K,7
+1735,[Gene]_PIK3R2,7
+1736,[Variant]_PIK3R2:N561D,1
+1737,[Variant]_PIK3CA:D350G,7
+1738,[Variant]_NRAS:Q179X,7
+1739,[Variant]_ABL1:R351W,0
+1740,[Variant]_ABL1:G340L,6
+1741,"[Drug]_Imatinib Mesylate,Dasatinib",7
+1742,[Variant]_KIT:S628N,7
+1743,[Variant]_EGFR:M766_A767insAI,3
+1744,[Variant]_EGFR:Y764_V765insHH,7
+1745,[Variant]_EGFR:D770_N771insGY,7
+1746,[Variant]_EGFR:P772_H773insYNP,7
+1747,[Variant]_EGFR:P772_V774insPHV,7
+1748,[Variant]_JAK2:F547 SPLICE SITE MUTATION,6
+1749,[Variant]_ARID1A:P1175FS*5,7
+1750,[Drug]_Anti-VEGF Monoclonal Antibody,7
+1751,[Variant]_IDH2:Oncogenic Mutations,7
+1752,[Drug]_Enasidenib,7
+1753,[Gene]_ACVR1,7
+1754,[Variant]_ACVR1:Gain-of-Function,7
+1755,[Variant]_ACVR1:G328V,7
+1756,[Gene]_H3-3A,7
+1757,"[Disease]_Diffuse Midline Glioma, H3 K27M-mutant",3
+1758,[Variant]_RET:RET FUSIONS,7
+1759,"[Drug]_Avelumab,Nivolumab,Pembrolizumab,Durvalumab,Atezolizumab",6
+1760,"[Drug]_Erlotinib,Dacomitinib",7
+1761,[Variant]_FGFR3:FGFR3 FUSIONS,7
+1762,"[Drug]_Pemetrexed,Docetaxel,Trametinib",7
+1763,"[Drug]_Nivolumab,Atezolizumab",4
+1764,[Drug]_Immune Checkpoint Inhibitor,7
+1765,"[Drug]_Selumetinib,Cetuximab",6
+1766,"[Drug]_Erlotinib,Selumetinib",7
+1767,"[Drug]_Palbociclib,Binimetinib",7
+1768,[Variant]_CHEK1:OVEREXPRESSION,7
+1769,"[Drug]_Cisplatin,Prexasertib,Olaparib",7
+1770,[Variant]_TP53:G245S,7
+1771,[Variant]_TP53:M237I,0
+1772,[Variant]_TP53:R158H,2
+1773,[Variant]_TP53:V157F,7
+1774,[Variant]_TP53:R249S,7
+1775,[Variant]_TP53:R280K,7
+1776,[Variant]_TP53:R280T,7
+1777,[Variant]_TP53:R158L,7
+1778,[Variant]_VHL:E46* (c.136G>T),2
+1779,[Variant]_VHL:E55* (c.163G>T),0
+1780,[Variant]_VHL:Y98H (c.292T>C),7
+1781,[Variant]_VHL:H115Q (c.345C>A),7
+1782,[Variant]_VHL:F119L (c.357C>G),7
+1783,[Variant]_VHL:A149T (c.445G>A),7
+1784,[Variant]_VHL:T157I (c.470C>T),7
+1785,[Variant]_VHL:R161Q (c.482G>A),7
+1786,[Variant]_VHL:R167W (c.499C>T),7
+1787,[Variant]_VHL:R167Q (c.500G>A),7
+1788,[Variant]_VHL:L178P (c.533T>C),7
+1789,[Variant]_VHL:V62fs (c.180del),7
+1790,[Variant]_VHL:S65W (c.194C>G),2
+1791,[Variant]_VHL:Q73* (c.217C>T),7
+1792,[Variant]_VHL:F76del (c.224_226delTCT),4
+1793,[Variant]_VHL:N78H (c.232A>C),3
+1794,[Variant]_VHL:N78S (c.233A>G),7
+1795,[Variant]_VHL:N78T (c.233A>C),7
+1796,[Variant]_VHL:S80I (c.239G>T),4
+1797,[Variant]_VHL:P86fs (c.254_255insC),7
+1798,[Variant]_VHL:P86L (c.257C>T),7
+1799,[Variant]_VHL:W88R (c.262T>A),1
+1800,[Variant]_VHL:S111FS (c.331delA),5
+1801,[Variant]_VHL:S111N (c.332G>A),3
+1802,[Variant]_VHL:S111R (c.333C>G),7
+1803,[Variant]_EGFR:Gain-of-function,7
+1804,[Variant]_VHL:Y112* (c.336C>A),7
+1805,[Variant]_VHL:W117C (c.351G>T),7
+1806,[Variant]_VHL:L129Q (c.386insAGA),7
+1807,[Variant]_VHL:L135* (c.404T>A),0
+1808,[Variant]_VHL:N150fs (c.449del),7
+1809,[Variant]_VHL:P154fs (c.462delA),7
+1810,[Variant]_VHL:C162R (c.484T>C),0
+1811,[Variant]_VHL:C162F (c.485G>T),7
+1812,[Variant]_VHL:C162W (c.486C>G),7
+1813,[Variant]_VHL:V166D (c.497T>A),7
+1814,[Variant]_VHL:L184P (c.551T>C),7
+1815,[Variant]_VHL:E186* (c.556G>T),7
+1816,[Variant]_VHL:E186K (c.556G>A),0
+1817,"[Drug]_Fluorouracil,Leucovorin,Trastuzumab",7
+1818,[Variant]_VHL:A56fs (c.166_167insA),7
+1819,[Variant]_VHL:S65L (c.194C>T),7
+1820,[Variant]_VHL:C77fs (c.228dup),7
+1821,[Variant]_VHL:R79P (c.236G>C),1
+1822,[Variant]_VHL:S80R (c.240T>G),7
+1823,[Variant]_VHL:L89P (c.266T>C),7
+1824,[Variant]_VHL:G114C (c.340G>T),7
+1825,[Variant]_VHL:L118P (c.353T>C),7
+1826,[Variant]_VHL:N131fs (c.390_391del),7
+1827,[Variant]_VHL:F136S (c.407T>C),7
+1828,[Variant]_VHL:L153fs (c.457delC),7
+1829,[Variant]_VHL:P154L (c.461C>T),7
+1830,[Variant]_VHL:L158V (c.472C>G),7
+1831,[Variant]_VHL:V170F (c.508G>T),7
+1832,[Variant]_VHL:I180V (c.538A>G),6
+1833,[Variant]_VHL:Q195* (c.583C>T),7
+1834,"[Drug]_Docetaxel,Erlotinib",7
+1835,[Variant]_VHL:V170D (c.509T>A),7
+1836,[Variant]_POLE:P286R,7
+1837,[Variant]_POLE:V411L,7
+1838,[Variant]_POLE:S459F,4
+1839,[Variant]_VHL:L116V (c.346C>G),4
+1840,[Variant]_VHL:V166F (c.496G>T),7
+1841,[Variant]_VHL:S65* (c.194C>A),3
+1842,[Variant]_VHL:E70* (c.208G>T),7
+1843,[Variant]_VHL:F76S (c.227T>C),7
+1844,[Variant]_VHL:L101G (c.301_302delinsGG),5
+1845,[Variant]_VHL:T105P (c.313A>C),7
+1846,[Variant]_VHL:R107P (c.320G>C),7
+1847,[Variant]_VHL:R113* (c.337C>T),1
+1848,[Variant]_VHL:L118fs (c.352_353insA),4
+1849,[Variant]_VHL:N131T (c.392A>C),7
+1850,[Variant]_VHL:T133fs (c.397del),3
+1851,[Variant]_VHL:D143fs (c.430delG),7
+1852,[Variant]_VHL:R161* (c.481C>T),7
+1853,[Variant]_VHL:Q164* (c.490C>T),5
+1854,[Variant]_VHL:Y175D (c.523T>G),7
+1855,[Variant]_VHL:V181fs (c.540_543del),7
+1856,[Variant]_VHL:Y185* (c.555C>G),7
+1857,[Variant]_VHL:Q96* (c.286C>T),7
+1858,[Variant]_VHL:P86R (c.257C>G),7
+1859,[Variant]_VHL:G144* (c.430G>T),7
+1860,[Variant]_VHL:L188P (c.563T>C),7
+1861,[Variant]_VHL:S111C (c.330_331delinsTT),7
+1862,[Variant]_VHL:R64P (c.191G>C),7
+1863,[Variant]_VHL:E189fs (c.565del),7
+1864,[Variant]_VHL:Splicing alteration (c.340+1G>A),7
+1865,[Variant]_VHL:G93S (c.277G>A),7
+1866,[Variant]_VHL:I151T (c.452T>C),7
+1867,[Variant]_VHL:L158P (c.473T>C),7
+1868,[Variant]_VHL:S68P (c.202T>C),7
+1869,[Variant]_VHL:Q132P (c.395A>C),1
+1870,[Variant]_VHL:Q164R (c.491A>G),6
+1871,[Variant]_VHL:E94* (c.280G>T),7
+1872,[Variant]_VHL:P103FS (c.309_310delTG),7
+1873,[Variant]_VHL:H115P (c.344A>C),7
+1874,[Variant]_VHL:L128R (c.383T>G),7
+1875,[Variant]_VHL:L169P (c.506T>C),7
+1876,[Variant]_VHL:L178R (c.533T>G),1
+1877,[Variant]_VHL:M54fs (c.161dup),6
+1878,[Variant]_VHL:F91* (c.272_273delinsAA),7
+1879,[Variant]_VHL:P59fs (c.176delC),2
+1880,[Variant]_VHL:P86S (c.256C>T),7
+1881,[Variant]_VHL:S65P (c.193T>C),4
+1882,[Variant]_VHL:S72P (c.214T>C),7
+1883,[Variant]_VHL:S72fs (c.214del),7
+1884,[Variant]_VHL:T124fs (c.369del),3
+1885,[Variant]_VHL:L135FS (c.404delT),6
+1886,[Variant]_VHL:R176fs (c.526del),7
+1887,[Variant]_VHL:R177fs (c.528del),7
+1888,[Variant]_VHL:W88* (c.264G>A),7
+1889,[Variant]_VHL:V155E (c.464T>A),7
+1890,[Variant]_VHL:V170G (c.509T>G),7
+1891,[Variant]_VHL:F76fs (c.223_224insT),7
+1892,[Variant]_VHL:K196* (c.586A>T),7
+1893,[Variant]_VHL:R120G (c.358A>G),7
+1894,[Variant]_VHL:R167L (c.500G>T),7
+1895,[Variant]_VHL:D126FS (c.375_376insC),7
+1896,[Variant]_VHL:E160FS (c.479_480delAG),7
+1897,[Variant]_VHL:H115Y (c.343C>T),1
+1898,[Variant]_VHL:L153P (c.458T>C),7
+1899,[Variant]_VHL:L184R (c.551T>G),7
+1900,[Variant]_VHL:L188R (c.563T>G),1
+1901,[Variant]_VHL:P138T (c.412C>A),7
+1902,"[Drug]_Olaparib,Paclitaxel",7
+1903,[Variant]_VHL:Y98C  (c.293A>G),1
+1904,[Variant]_VHL:R69fs (c.204insG),7
+1905,[Variant]_VHL:Splicing alteration (c.340+5G>C),7
+1906,[Variant]_VHL:G144fs (c.432insG),7
+1907,[Variant]_VHL:Q145* (c.433C>T),6
+1908,[Variant]_VHL:N131K (c.393C>A),7
+1909,[Variant]_VHL:T105fs (c.315insAC),7
+1910,[Variant]_VHL:P71fs (c.211insT),0
+1911,[Variant]_VHL:E52K (c.154G>A),7
+1912,[Variant]_VHL:E70K (c.208G>A),3
+1913,[Variant]_VHL:H115Q (c.345C>G),7
+1914,[Variant]_VHL:H191FS (c.571delC),7
+1915,[Variant]_VHL:L140fs (c.417_418delTC),7
+1916,[Variant]_VHL:K159fs (c.473dup),7
+1917,[Variant]_VHL:P154= (c.462A>C),7
+1918,[Variant]_VHL:S80R (c.238A>C),7
+1919,[Variant]_VHL:S80N (c.239G>A),7
+1920,[Variant]_VHL:R60FS (c.179delG),7
+1921,[Variant]_VHL:W88S (c.263G>C),7
+1922,[Variant]_VHL:Y156D (c.466T>G),7
+1923,[Variant]_VHL:Y156C (c.467A>G),7
+1924,[Variant]_VHL:Y156* (c.468T>G),7
+1925,[Variant]_VHL:Y175* (c.525C>G),7
+1926,[Variant]_VHL:V130L (c.388G>C),6
+1927,[Variant]_VHL:G114R (c.340G>C),7
+1928,[Variant]_VHL:R177* (c.529A>T),7
+1929,[Variant]_VHL:*214L (c.641G>T),7
+1930,[Variant]_VHL:*214W (c.642A>G),7
+1931,[Variant]_VHL:*214C (c.642A>T),7
+1932,"[Drug]_Everolimus,Sunitinib",7
+1933,[Variant]_VHL:Splicing alteration (c.464-1G>T),6
+1934,"[Drug]_Cetuximab,Panitumumab",7
+1935,[Drug]_Imatinib Mesylate,1
+1936,[Variant]_PIK3CA:EXON 10 and EXON 21 MUTATIONS,7
+1937,[Variant]_VHL:Splicing alteration (c.464-2A>T),7
+1938,[Variant]_VHL:R161G (c.481C>G),7
+1939,[Variant]_VHL:Splicing alteration (c.463+2T>C),7
+1940,[Variant]_VHL:Splicing alteration (c.464-1G>A),7
+1941,[Variant]_VHL:Q132* (c.394C>T),7
+1942,[Variant]_VHL:C77_N78insL (c.230_231insTCT),7
+1943,[Variant]_VHL:L129fs (c.384delT),4
+1944,[Variant]_VHL:L178Q (c.533T>A),0
+1945,[Variant]_VHL:P81S (c.241C>T),7
+1946,[Variant]_VHL:S183* (c.548C>A),7
+1947,[Variant]_VHL:Splicing alteration (c.463+1G>C),7
+1948,[Variant]_VHL:V74G (c.221T>G),7
+1949,[Variant]_VHL:H115R (c.344A>G),1
+1950,[Variant]_VHL:R107G  (c.319C>G),7
+1951,[Variant]_VHL:R161P (c.482G>C),7
+1952,[Variant]_VHL:G93C (c.277G>T),7
+1953,[Variant]_VHL:G93V (c.278G>T),7
+1954,[Variant]_VHL:L188V (c.562C>G),7
+1955,[Variant]_VHL:L198Q  (c.593T>A),7
+1956,[Variant]_VHL:F136C (c.407T>G),7
+1957,[Variant]_VHL:S65A (c.193T>G),7
+1958,[Variant]_VHL:S68W (c.203C>G),7
+1959,[Variant]_VHL:Y156N (c.466T>A),7
+1960,[Variant]_VHL:P61fs (c.183insC),7
+1961,[Variant]_VHL:V84L (c.250G>T),7
+1962,[Variant]_VHL:L85P (c.254T>C),7
+1963,[Variant]_VHL:G93R (c.277G>C),2
+1964,[Variant]_VHL:R108dup (c.322_324dup),1
+1965,[Variant]_VHL:D121G (c.362A>G),7
+1966,[Variant]_VHL:V194fs (c.581_582del),7
+1967,[Variant]_VHL:A149fs (c.449del14-nt),7
+1968,[Variant]_VHL:3'UTR alteration (c.639+10C>G),7
+1969,[Variant]_VHL:G114S (c.340G>A),7
+1970,[Variant]_VHL:W117fs (c.349dup),7
+1971,[Variant]_VHL:A122I (c.364_365GC>AT),7
+1972,[Variant]_VHL:N150fs (c.445_458del),7
+1973,[Variant]_VHL:I151M (c.453C>G),7
+1974,[Variant]_VHL:Splicing alteration (c.464-2A>G),7
+1975,[Variant]_VHL:L163H (c.488T>A),7
+1976,[Variant]_VHL:Y112H (c.334T>C),1
+1977,[Variant]_VHL:L128F (c.382C>T),7
+1978,[Variant]_VHL:L129P (c.386T>C),7
+1979,[Variant]_VHL:C162fs (c.483del),7
+1980,[Variant]_VHL:Null (Partial deletion of Exons 2 & 3),7
+1981,[Variant]_VHL:N78I (c.233A>T),7
+1982,[Variant]_VHL:C162Y (c.485G>A),7
+1983,[Variant]_VHL:W88FS (c.263_265delGGCinsTT),7
+1984,[Variant]_VHL:K159fs (c.477_478insCA),7
+1985,[Variant]_VHL:Q73FS (c.217delC),7
+1986,[Variant]_VHL:A149fs (c.445delG),7
+1987,[Drug]_JQ-1,7
+1988,"[Drug]_Vinorelbine,Docetaxel,Gemcitabine",7
+1989,[Variant]_DICER1:E1705K,0
+1990,[Disease]_Malignant Sertoli-Leydig Cell Tumor,7
+1991,[Variant]_DICER1:D1709N,7
+1992,[Variant]_DICER1:E1813Q,7
+1993,[Variant]_VHL:P146fs (c.437del),7
+1994,[Variant]_VHL:W88R (c.262T>C),7
+1995,[Variant]_VHL:H115fs (c.344del),4
+1996,[Variant]_VHL:P102fs (c.305delC),7
+1997,"[Drug]_Paclitaxel,Vinorelbine,Gemcitabine",7
+1998,[Variant]_VHL:R82_V84del (c.243_251del),7
+1999,[Variant]_VHL:P40fs (c.118ins),7
+2000,[Variant]_VHL:T152fs (c.455insA),7
+2001,[Variant]_VHL:T157fs (c.472ins),7
+2002,[Variant]_VHL:L158fs (c.471dupT),1
+2003,[Variant]_VHL:D92_Y98del (c.275_292del),2
+2004,[Variant]_VHL:E160fs (c.477del),7
+2005,[Variant]_VHL:V66del (c.197_220del),1
+2006,[Variant]_ARID1A:UNDEREXPRESSION,7
+2007,[Variant]_VHL:E94FS (c.279delC),7
+2008,[Variant]_VHL:G114dup (c.342dupGGT),7
+2009,[Variant]_VHL:S65FS (c.194delC),7
+2010,[Variant]_VHL:Q73fs (c.214insGCCC),7
+2011,[Variant]_VHL:Splicing alteration (c.341-2A>C),7
+2012,[Variant]_VHL:G114fs (c.341delCGTTTCCAACAATTTCTCGGTGT),7
+2013,[Variant]_VHL:H125fs (c.374insA),7
+2014,[Variant]_VHL:K159fs (c.474_476delGAAinsC),7
+2015,[Variant]_VHL:Y175* (c.525delC),7
+2016,[Variant]_VHL:L188fs (c.562delC),7
+2017,[Variant]_VHL:K196fs (c.584_585delAG),7
+2018,[Variant]_VHL:D197FS (c.589delG),7
+2019,[Variant]_VHL:T202fs (c.606insA),7
+2020,[Variant]_VHL:R113FS (c.337delC),7
+2021,[Variant]_VHL:A56fs (c.166dup),7
+2022,[Variant]_VHL:P61FS (c.182_185delCCGT),7
+2023,[Variant]_VHL:Splicing alteration (c.464-1G>C),7
+2024,[Variant]_VHL:EXON 3 DELETION,7
+2025,[Variant]_VHL:R161= (c.481C>A),7
+2026,[Variant]_VHL:I151F (c.451A>T),7
+2027,[Variant]_VHL:W88* (c.263G>A),7
+2028,[Variant]_VHL:3'UTR alteration (c.642+70C>A),7
+2029,[Variant]_VHL:Y98FS (c.291delC),7
+2030,[Variant]_VHL:N150S (c.449A>G),6
+2031,[Variant]_NRG1:SLC3A2-NRG1,7
+2032,[Gene]_RAD50,7
+2033,[Variant]_RAD50:L1237F,7
+2034,[Disease]_Ureter Small Cell Carcinoma,7
+2035,"[Drug]_Irinotecan,Checkpoint Kinase Inhibitor AZD7762",7
+2036,[Variant]_BTK:MUTATION,7
+2037,[Gene]_PLCG2,7
+2038,[Variant]_PLCG2:MUTATION,0
+2039,[Drug]_Rilotumumab,7
+2040,[Variant]_NRG1:ATP1B1-NRG1,7
+2041,[Variant]_NRG1:SDC4-NRG1,7
+2042,[Variant]_VHL:R82P (c.245G>C),7
+2043,[Variant]_VHL:R177ins (c.531insCTGAGAGTAAAGCCTGAA),7
+2044,[Variant]_DICER1:D1709G,1
+2045,[Variant]_DICER1:D1709E,7
+2046,[Disease]_Glandular Pattern Ovarian Yolk Sac Tumor,3
+2047,"[Drug]_Dabrafenib,Trametinib Dimethyl Sulfoxide",7
+2048,"[Drug]_Vemurafenib,Panitumumab,Irinotecan",1
+2049,[Variant]_EGFR:EGFR-RAD51,7
+2050,[Variant]_FGFR2:FGFR2 mutations,7
+2051,"[Drug]_Oxaliplatin,Cisplatin",6
+2052,"[Drug]_Hyperthermic Intraperitoneal Chemotherapy,Cytoreductive Surgery",7
+2053,[Variant]_BAP1:ALTERNATIVE TRANSCRIPT (ATI),7
+2054,"[Drug]_Apitolisib,Olaparib",4
+2055,"[Drug]_Gemcitabine,Cisplatin,Veliparib",7
+2056,"[Drug]_Gemcitabine,Veliparib,Cisplatin",7
+2057,[Drug]_Veliparib,7
+2058,[Drug]_Iniparib,7
+2059,[Variant]_ALK:STRN-ALK,0
+2060,[Gene]_BARD1,3
+2061,[Variant]_BARD1:LOSS-OF-FUNCTION,7
+2062,"[Drug]_Trastuzumab,Capecitabine",7
+2063,"[Drug]_Gemcitabine,Trastuzumab",7
+2064,[Disease]_Solid Tumor,7
+2065,"[Drug]_Paclitaxel,Carboplatin,Buparlisib",7
+2066,"[Drug]_Vemurafenib,Pertuzumab",7
+2067,[Disease]_Laryngeal Squamous Cell Carcinoma,7
+2068,[Variant]_BRAF:G464V,1
+2069,[Variant]_BRAF:G469A,7
+2070,[Variant]_BRAF:G496A,7
+2071,[Variant]_BRAF:N581S,7
+2072,[Variant]_BRAF:G466V,7
+2073,[Variant]_BRAF:G606E,7
+2074,[Variant]_BRAF:P731T,3
+2075,[Variant]_BRAF:intron 9 rearrangement,1
+2076,[Variant]_BRAF:intron 10 rearrangement,7
+2077,[Variant]_BRAF:MACF1-BRAF,7
+2078,[Variant]_BRAF:WASFL-BRAF,7
+2079,[Variant]_BRAF:CUX1-BRAF,7
+2080,"[Drug]_Trastuzumab,Pertuzumab",7
+2081,[Disease]_Biliary Tract Cancer,7
+2082,"[Drug]_Pertuzumab,Trastuzumab",7
+2083,[Disease]_Uterine Cancer,7
+2084,[Variant]_ASS1:LOSS,7
+2085,"[Drug]_Pegargiminase,Chloroquine",7
+2086,[Gene]_BCL2,7
+2087,[Variant]_BCL2:MUTATION,7
+2088,[Gene]_RASA1,7
+2089,[Variant]_RASA1:LOSS-OF-FUNCTION,7
+2090,[Gene]_TLK2,7
+2091,[Variant]_TLK2:AMPLIFICATION,7
+2092,"[Drug]_Go6983,GF109203X",7
+2093,[Drug]_U0126,7
+2094,[Variant]_BRAF:G469E,4
+2095,[Disease]_Ovarian Sex-cord Stromal Tumor,7
+2096,[Disease]_Vagina Sarcoma,1
+2097,[Disease]_Epithelioid Inflammatory Myofibroblastic Sarcoma,1
+2098,"[Drug]_Vemurafenib,Cobimetinib",7
+2099,"[Drug]_Encorafenib,Cetuximab",7
+2100,"[Drug]_Alpelisib,Encorafenib,Cetuximab",7
+2101,[Drug]_Meloxicam,7
+2102,[Variant]_VHL:R82_V84del (c.244_252del),0
+2103,[Variant]_VHL:L188Q (c.563T>A),7
+2104,[Variant]_VHL:A56_P59del (c.166_178del),7
+2105,[Variant]_ACVR1:G328E,6
+2106,[Variant]_NRG1:NRG1 FUSIONS,5
+2107,[Variant]_NTRK2:STRN-NTRK2,1
+2108,[Variant]_NTRK1:LMNA-NTRK1,7
+2109,[Variant]_NTRK1:TPM3-NTRK1,7
+2110,[Variant]_NTRK1:PDE4DIP-NTRK1,7
+2111,[Variant]_VHL:G144E (c.431G>A),5
+2112,[Disease]_Adrenal Gland Pheochromocytoma,7
+2113,[Variant]_VHL:Splicing alteration (c.463+8C>T),7
+2114,[Variant]_VHL:G104A (c.311G>C),4
+2115,[Variant]_VHL:F91L (c.273C>G),7
+2116,[Variant]_VHL:W88fs (c.261dup),7
+2117,"[Drug]_Panitumumab,Dabrafenib,Trametinib",7
+2118,"[Drug]_Panitumumab,Trametinib",7
+2119,[Disease]_Salivary Gland Cancer,7
+2120,"[Drug]_Paclitaxel,Trastuzumab",6
+2121,"[Drug]_Zoledronic Acid,Trastuzumab,Capecitabine",7
+2122,[Variant]_ERBB2:T798I,7
+2123,[Variant]_EGFR:R705K,7
+2124,[Variant]_EGFR:RARE EGRF MUT,4
+2125,[Variant]_ABL1:BCR-ABL T315A,1
+2126,"[Drug]_Fluorouracil,Epirubicin,Cyclophosphamide,Paclitaxel,Doxorubicin",7
+2127,"[Drug]_Dasatinib,Nilotinib,Imatinib Mesylate",7
+2128,[Variant]_ABL1:BCR-ABL L248R,7
+2129,"[Drug]_Dasatinib,Imatinib Mesylate",7
+2130,[Variant]_ABL1:BCR-ABL F317I,7
+2131,[Variant]_ABL1:BCR-ABL F317S,0
+2132,[Variant]_ABL1:BCR-ABL F317C,1
+2133,[Variant]_AKT1:OVEREXPRESSION,7
+2134,[Variant]_BRAF:V600E/K and AMPLIFICATION,7
+2135,[Variant]_PIK3R2:OVEREXPRESSION,7
+2136,[Gene]_PREX2,7
+2137,[Variant]_PREX2:R172I,7
+2138,"[Drug]_Imatinib Mesylate,Dasatinib,Nilotinib",7
+2139,[Variant]_VHL:3p26.3-25.3 11Mb del,7
+2140,[Variant]_ABL1:BCR-ABL E459K,7
+2141,[Variant]_ABL1:TKD MUTATION,7
+2142,[Variant]_KRAS:G13V,7
+2143,[Variant]_VHL:c.128-?_250+?,7
+2144,[Variant]_ABL1:P-Loop Mutation,7
+2145,[Variant]_ABL1:Non-P-Loop Mutation,7
+2146,[Variant]_CSF3R:T618I,7
+2147,[Variant]_CALR:MUTATION,7
+2148,[Disease]_Essential Thrombocythemia,6
+2149,[Variant]_NTRK1:NTRK1-TRIM63,7
+2150,[Variant]_NTRK1:NTRK1-DDR2,7
+2151,[Variant]_NTRK1:NTRK1-GON4L,7
+2152,[Variant]_NTRK2:ETV6-NTRK2,6
+2153,[Variant]_BRAF:D594K,0
+2154,"[Drug]_Atezolizumab,Pembrolizumab,Nivolumab",0
+2155,[Gene]_SDHB,7
+2156,[Variant]_SDHB:p.193_196dupSTSC (c.577_588dupAGCACCAGCTGC),7
+2157,[Disease]_Paraganglioma,7
+2158,[Variant]_H3-3A:K27M,2
+2159,[Gene]_H3-3B,2
+2160,[Variant]_H3-3B:K36M,7
+2161,[Disease]_Chondroblastoma,7
+2162,[Variant]_H3-3A:G34W,3
+2163,[Disease]_Bone Giant Cell Tumor,7
+2164,[Variant]_VHL:c.?213? ?_463 ?del,7
+2165,[Variant]_VHL:V87fs (c.259_260insA),7
+2166,[Variant]_VHL:c.341-59_341-14del,7
+2167,[Variant]_VHL:V166A (c.497T>C),7
+2168,[Variant]_VHL:REARRANGEMENT,7
+2169,[Variant]_VHL:V66Gfs*89 (c.197_209del),4
+2170,[Variant]_VHL:R79_S80del (c.236_241delGCAGTC),1
+2171,[Variant]_VHL:P86A (c.256C>G),7
+2172,[Variant]_VHL:D92G (c.275A>G),7
+2173,[Variant]_VHL:V155G (c.464T>G),7
+2174,[Variant]_VHL:Null (Complete deletion),7
+2175,[Variant]_VHL:S111C (c.331A>T),7
+2176,[Variant]_VHL:G114Vfs*45 (c.339delA),7
+2177,[Variant]_VHL:Splicing alteration (c.464-2G>A),1
+2178,[Variant]_VHL:Q164L (c.491A>T),7
+2179,[Variant]_VHL:R167P (c.500G>C),7
+2180,[Variant]_VHL:Y175* (c.525C>A),1
+2181,[Variant]_VHL:L178P (c.532C>T),7
+2182,[Variant]_VHL:EXON 2 DELETION,7
+2183,[Variant]_VHL:EXON 2-3 DELETION,7
+2184,[Gene]_PRKCB,7
+2185,[Variant]_PRKCB:D427N,7
+2186,[Disease]_Adult T-cell Leukemia,7
+2187,[Variant]_VHL:*214G (c.640T>G),5
+2188,[Variant]_VHL:*214C (c.641_642insC),7
+2189,[Gene]_PRPS1,7
+2190,[Variant]_HRAS:Q61,7
+2191,[Variant]_ABL1:ETV6-ABL1,4
+2192,[Variant]_JAK2:GOLGA5-JAK2,1
+2193,[Gene]_ABL2,7
+2194,[Gene]_NCOA2,7
+2195,[Variant]_NCOA2:HEY1-NCOA2,1
+2196,[Disease]_Mesenchymal Chondrosarcoma,7
+2197,[Gene]_FOXO1,7
+2198,[Variant]_FOXO1:PAX3-FOXO1,7
+2199,[Disease]_Alveolar Rhabdomyosarcoma,7
+2200,[Variant]_FOXO1:PAX7-FOXO1,7
+2201,[Variant]_PARP1:OVEREXPRESSION,7
+2202,[Drug]_Birabresib,3
+2203,[Variant]_JAK2:JAK2 F694L,7
+2204,[Disease]_Thyroid Cancer,7
+2205,[Drug]_Selpercatinib,5
+2206,[Variant]_RET:Oncogenic Mutations,5
+2207,[Disease]_Medullary Thyroid Cancer,7
+2208,[Variant]_EGFR:V441F,7
+2209,"[Drug]_Dasatinib,Imatinib",7
+2210,[Variant]_VHL:G104V (c.311G>T),7
+2211,[Disease]_Pilocytic Astrocytoma,7
+2212,[Variant]_SMARCA4:LOSS,7
+2213,"[Drug]_Abemaciclib,Palbociclib",7
+2214,[Disease]_Lymphoma,7
+2215,[Variant]_TP53:C238Y,7
+2216,[Variant]_H3-3A:MUTATION,7
+2217,[Disease]_Pediatric Low-grade Glioma,7
+2218,[Gene]_MYB,7
+2219,[Variant]_ATRX:DELETION,6
+2220,[Variant]_CDKN2A:DELETION,7
+2221,[Variant]_MYB:AMPLIFICATION,7
+2222,"[Drug]_Everolimus,Trametinib",7
+2223,[Variant]_FGFR1:INTERNAL DUPLICATION,7
+2224,[Variant]_CRLF2:CRLF2-IGH,7
+2225,[Disease]_Li-Fraumeni Syndrome,7
+2226,[Variant]_ABL1:SNX2-ABL1,7
+2227,[Variant]_ABL1:ABL1-RCSD,7
+2228,[Variant]_ABL1:ABL1-RCSD1,7
+2229,[Variant]_ABL2:ABL2 fusions,1
+2230,[Variant]_JAK2:SSBP2-JAK2,7
+2231,"[Drug]_Binimetinib,Cetuximab,Encorafenib",3
+2232,[Drug]_Tepotinib,7
+2233,[Variant]_ROS1:FUSION,7
+2234,"[Variant]_FLT3:D835, I836, Internal tandem duplication",7
+2235,[Drug]_Gilteritinib,7
+2236,"[Drug]_Binimetinib,Encorafenib",7
+2237,[Variant]_KIT:V555_V559DEL,7
+2238,[Variant]_KIT:K550_K559DEL,7
+2239,[Variant]_ABL1:FOXP1-ABL1,7
+2240,[Variant]_CDKN2A:MUTATION,7
+2241,"[Drug]_Alpelisib,Fulvestrant",7
+2242,[Drug]_Icotinib,7
+2243,"[Drug]_Fulvestrant,Alpelisib",5
+2244,"[Drug]_Sorafenib,Sunitinib",7
+2245,[Variant]_FGFR1:FGFR1OP2-FGFR1,4
+2246,[Variant]_IKZF1:IKZF1 deletion and mutation,7
+2247,"[Drug]_Ponatinib,Imatinib",7
+2248,"[Drug]_Sunitinib,Ponatinib",7
+2249,"[Drug]_Sorafenib,Vemurafenib",7
+2250,[Variant]_KIT:A829P,7
+2251,"[Drug]_Sunitinib,Imatinib",1
+2252,"[Drug]_Doxorubicin,Methotrexate",7
+2253,[Variant]_NFE2L2:MUTATION,7
+2254,[Drug]_Sapanisertib,7
+2255,[Drug]_Vistusertib,1
+2256,[Drug]_Agerafenib,1
+2257,[Variant]_ALK:CAD-ALK,1
+2258,[Variant]_ROS1:GOPC-ROS1,7
+2259,[Variant]_NRG1:APP-NRG1,7
+2260,[Variant]_MET:R1004G,7
+2261,[Variant]_TP53:R282W,6
+2262,"[Drug]_Irinotecan,Panitumumab",7
+2263,"[Variant]_EGFR:A289V, R108K, T263P",7
+2264,[Disease]_Glioma,1
+2265,[Variant]_EGFR:Amplification,7
+2266,[Drug]_Akt/ERK Inhibitor ONC201,7
+2267,[Variant]_BRAF:A728V,7
+2268,[Drug]_BRAF Inhibitor,2
+2269,"[Drug]_BRAF Inhibitor,Mitogen-Activated Protein Kinase Kinase Inhibitor",7
+2270,[Variant]_BRAF:V600_K601>E,7
+2271,"[Drug]_Mitogen-Activated Protein Kinase Kinase Inhibitor,BRAF Inhibitor",6
+2272,[Variant]_BRAF:G469,2
+2273,[Variant]_BRAF:A598V,7
+2274,[Variant]_FGF19:EXPRESSION,7
+2275,[Drug]_Fisogatinib,7
+2276,[Drug]_Trastuzumab Deruxtecan,7
+2277,[Variant]_JAK2:ATF7IP-JAK2,7
+2278,[Variant]_JAK2:EBF1-JAK2,7
+2279,[Variant]_JAK2:PPFIBP1-JAK2,4
+2280,[Variant]_JAK2:STRN3-JAK2,7
+2281,[Variant]_JAK2:TPR-JAK2,7
+2282,[Variant]_JAK2:ETV6-JAK2,2
+2283,[Variant]_JAK2:BCR-JAK2,7
+2284,[Variant]_JAK2:PAX5-JAK2,7
+2285,[Variant]_JAK2:TERF2-JAK2,7
+2286,[Variant]_JAK2:ZNF274-JAK2,7
+2287,[Variant]_JAK2:RFX3-JAK2,7
+2288,[Variant]_BRCA2:K3226*,7
+2289,"[Drug]_Temozolomide,Olaparib",7
+2290,[Disease]_Chondrosarcoma,7
+2291,[Variant]_BRAF:N486_P490del,7
+2292,[Variant]_BRAF:NRF1-BRAF,1
+2293,[Variant]_ABL1:BCR-ABL T315V,7
+2294,[Variant]_ABL1:BCR-ABL E292L,7
+2295,[Variant]_ABL1:BCR-ABL F317R,1
+2296,[Variant]_ABL1:BCR-ABL L248R F359I,7
+2297,[Disease]_Acute Lymphoblastic Leukemia,7
+2298,"[Drug]_Axitinib,Ponatinib",7
+2299,"[Drug]_Nilotinib,Imatinib,Dasatinib",7
+2300,"[Drug]_Imatinib,Dasatinib,Nilotinib",2
+2301,[Variant]_ABL1:BCR-ABL E255K V299L,7
+2302,"[Drug]_Ponatinib,Dasatinib",7
+2303,[Variant]_CTNNB1:exon 3 mutation,7
+2304,[Variant]_DPYD:EXON 11-19 DELETION,7
+2305,"[Drug]_Fluorouracil,Leucovorin",7
+2306,[Variant]_MET:MET-ATXN7L1,1
+2307,[Disease]_Histiocytic And Dendritic Cell Cancer,7
+2308,"[Drug]_Dexamethasone,Ribociclib",7
+2309,[Disease]_Glioblastoma Proneural Subtype,7
+2310,[Variant]_CDK6:EXPRESSION,1
+2311,[Variant]_NT5C2:R238W,7
+2312,[Variant]_NT5C2:S445F,7
+2313,"[Drug]_Thioguanine,Mercaptopurine",3
+2314,"[Drug]_Cytarabine,Doxorubicin,Prednisolone,Gemcitabine",7
+2315,"[Drug]_Doxorubicin,Gemcitabine,Prednisolone,Cytarabine",7
+2316,"[Drug]_Gemcitabine,Prednisolone,Cytarabine,Doxorubicin",7
+2317,[Variant]_NT5C2:NT5C2 MUTATION,1
+2318,[Variant]_PRPS1:PRPS1 MUTATION,7
+2319,[Variant]_PRPS1:A190T,0
+2320,[Variant]_VHL:106insR (c.316insGCC),1
+2321,[Variant]_PRPS1:T303S,7
+2322,[Variant]_PRPS1:L191F,7
+2323,[Variant]_PRPS1:D183E,7
+2324,[Variant]_PRPS1:K176N,3
+2325,[Variant]_PRPS1:N144S,7
+2326,[Variant]_PRPS1:S103I,7
+2327,[Variant]_PRPS1:S103N,7
+2328,[Variant]_PRPS1:S103T,5
+2329,"[Drug]_Mercaptopurine,Lometrexol",7
+2330,[Variant]_PRPS1:D139G,1
+2331,[Variant]_PRPS1:C77S,7
+2332,[Variant]_PRPS1:I72V,4
+2333,[Variant]_PRPS1:V53A,7
+2334,[Variant]_PRPS1:A87T,7
+2335,[Variant]_PRPS1:M115T,0
+2336,"[Drug]_Asparaginase,Daunorubicin,Methotrexate",7
+2337,"[Drug]_Asparaginase,Cytarabine,Methotrexate,Daunorubicin",1
+2338,"[Drug]_Methotrexate,Cytarabine,Daunorubicin,Asparaginase",7
+2339,"[Drug]_Methotrexate,Cytarabine,Asparaginase,Daunorubicin",2
+2340,"[Drug]_Methotrexate,Asparaginase,Daunorubicin",7
+2341,[Variant]_ABL1:BCR-ABL E450Q,7
+2342,[Variant]_ABL1:BCR-ABL M244V and L364I,7
+2343,[Variant]_ABL1:BCR-ABL N146S,7
+2344,[Variant]_ABL1:BCR-ABL V298I,7
+2345,[Variant]_ABL1:BCR-ABL S438C,7
+2346,[Variant]_ABL1:BCR-ABL M388L,7
+2347,[Gene]_IL6,7
+2348,[Variant]_IL6:OVEREXPRESSION,7
+2349,[Disease]_Rhabdomyosarcoma,7
+2350,[Drug]_Bazedoxifene,0
+2351,[Variant]_CHEK2:R474C c.1420C>T,7
+2352,[Variant]_CTNNB1:exon 3 mutations,7
+2353,[Variant]_PDGFRA:OVEREXPRESSION,7
+2354,[Variant]_PDGFRA:BCR-PDGFRA,7
+2355,[Disease]_B-cell Acute Lymphoblastic Leukemia,7
+2356,[Variant]_PDGFB:COL1A1-PDGFB,2
+2357,[Variant]_PDGFRB:OVEREXPRESSION,6
+2358,[Variant]_JAK2:SMU1-JAK2,4
+2359,[Variant]_JAK2:OFD1-JAK2,1
+2360,[Variant]_JAK2:SNX29-JAK2,7
+2361,[Variant]_JAK2:ZNF430-JAK2,7
+2362,[Variant]_PIK3CA:V955I,4
+2363,[Variant]_ABL1:Double Ph,4
+2364,[Variant]_FLT3:D835Y,7
+2365,[Drug]_Arsenic Trioxide,3
+2366,[Gene]_MYOD1,7
+2367,[Variant]_MYOD1:L122R,7
+2368,[Disease]_Spindle Cell Rhabdomyosarcoma,7
+2369,"[Drug]_Imatinib,Chemotherapy",7
+2370,[Variant]_FLT3:Y842C,7
+2371,[Drug]_FLT3/ABL/Aurora Kinase Inhibitor KW-2449,7
+2372,[Variant]_FLT3:F691L,7
+2373,[Variant]_FLT3:D835I,7
+2374,"[Drug]_Vemurafenib,Akt Inhibitor MK2206",7
+2375,[Variant]_BCL2:F104I,7
+2376,[Drug]_Venetoclax,7
+2377,"[Drug]_Vemurafenib,Erlotinib",7
+2378,[Variant]_ABL1:BCR-ABL Y253F,7
+2379,[Variant]_NTRK2:KANK1-NTRK2,7
+2380,"[Drug]_Lapatinib,Capecitabine",5
+2381,[Variant]_KRAS:Wildtype,7
+2382,[Variant]_BCL2:G101V,7
+2383,[Disease]_Thanatophoric Dysplasia,7
+2384,[Variant]_SMARCB1:LOSS,7
+2385,[Disease]_Atypical Teratoid Rhabdoid Tumor,3
+2386,[Variant]_ATRX:Loss-of-function,7
+2387,"[Drug]_Etoposide,Larotrectinib,Methotrexate",7
+2388,[Disease]_Renal Wilms' Tumor,7
+2389,[Variant]_ERBB2:Oncogenic Mutations,7
+2390,[Drug]_AZD5363,7
+2391,[Variant]_EGFR:Exon 20 insertion,7
+2392,[Variant]_MAP2K1:Oncogenic Mutations,7
+2393,[Variant]_KRAS:G12C,7
+2394,[Variant]_ALK:L1196M,7
+2395,[Variant]_ALK:I1171N,7
+2396,[Variant]_ALK:G1269A,7
+2397,[Variant]_ALK:G1202R,5
+2398,[Variant]_ALK:C1156Y,7
+2399,[Variant]_MET:Y1230H,7
+2400,[Drug]_Poziotinib,7
+2401,[Gene]_MAP2K2,7
+2402,[Drug]_Binimetinib + Ribociclib,3
+2403,[Variant]_ESR1:Oncogenic Mutations,7
+2404,"[Drug]_AZD9496, Fulvestrant",0
+2405,[Drug]_Selumetinib + Iodine I 131-6-Beta-Iodomethyl-19-Norcholesterol,7
+2406,[Disease]_Low-Grade Serous Ovarian Cancer,7
+2407,"[Drug]_Trametinib, Cobimetinib",7
+2408,[Variant]_NF1:Oncogenic Mutations,7
+2409,"[Drug]_Cobimetinib, Trametinib",7
+2410,[Variant]_BRAF:Fusions,4
+2411,[Gene]_KDM6A,7
+2412,"[Variant]_MTOR:E2014K, E2419K",7
+2413,"[Variant]_FGFR3:G380R, K650, S371C",7
+2414,"[Drug]_BGJ398, Debio1347, AZD4547",0
+2415,"[Drug]_AZD4547, BGJ398, Debio1347, Erdafitinib",6
+2416,[Variant]_PIK3CA:Oncogenic Mutations,7
+2417,[Drug]_GDC-0077,7
+2418,[Drug]_Copanlisib + Fulvestrant,0
+2419,"[Drug]_Debio1347, BGJ398, AZD4547",6
+2420,[Variant]_ABL1:T315I,7
+2421,"[Variant]_ABL1:E255K, E255V, F359C, F359I, F359V, Y253H",7
+2422,[Drug]_Asciminib,7
+2423,[Drug]_AMG-510,4
+2424,[Variant]_PDGFRA:FIP1L1-PDGFRA Fusion,7
+2425,[Variant]_HRAS:Oncogenic Mutations,7
+2426,[Disease]_Head and Neck Squamous Cell Carcinoma,7
+2427,[Drug]_Tipifarnib,7
+2428,[Drug]_Pralsetinib,7
+2429,[Variant]_BRAF:L597,7
+2430,"[Drug]_BGJ398, AZD4547, Debio1347",6
+2431,[Variant]_BRAF:K601,7
+2432,[Variant]_KIT:D816,0
+2433,[Disease]_Mastocytosis,7
+2434,"[Variant]_PDGFRA:D842V, D842Y, D842_H845del, D842_H845insV",7
+2435,[Drug]_Avapritinib,7
+2436,"[Drug]_AZD4547, BGJ398, Erdafitinib, Debio1347",5
+2437,[Drug]_RO5045337,6
+2438,[Drug]_Milademetan Tosylate,4
+2439,[Drug]_Encorafenib + Panitumumab,7
+2440,[Variant]_PDGFRA:Oncogenic Mutations,4
+2441,"[Variant]_KIT:A829P, C809G, D816, D820, N822, Y823D",7
+2442,[Drug]_Ripretinib,7
+2443,[Variant]_KIT:V654A,0
+2444,"[Variant]_KIT:D572A, D572_P573dup, D579_H580insFNPTQLPYD, D579_H580insLPCD, D579del, E554_I571del, E554_K558del, E554_V559del, Exon 11 deletion, I563_L576del, K550_K558del, K550_V555delinsI, K550_W557del, K558N, K558_E562del, K558_V559del, K558_V560del, K558delinsNP, L576P, L576del, M552_K558del, M552_W557del, N564_Y578del, P551_E554del, P551_M552del, P551_V555del, P551_W557delinsL, P573Q, P573_D579del, P577_D579del, P577_R588dup, P577_W582delinsPYD, Q556_K558del, Q575_L576dup, Q575_P585dup, T574_R588delinsL, T574insTQLPYD, V555_L576del, V555_V559del, V559A, V559C, V559D, V559F, V559G, V559I, V559_G565del, V559_V560del, V559del, V560D, V560E, V560G, V560del, V569_L576del, W557C, W557G, W557R, W557_K558del, W557_V559delinsC, W557_V560del, Y553_K558del, Y553_Q556del, Y568_L576delinsVN, Y578C, Y578_D579dup, Y578_D579insEQQLPY",7
+2445,"[Variant]_KIT:A502_Y503dup, K509I, N505I, S476I, S501_A502dup",7
+2446,[Disease]_Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,7
+2447,[Drug]_Carboplatin-Taxol Regimen + Trastuzumab,7
+2448,[Disease]_Ganglioglioma,3
+2449,"[Drug]_Vemurafenib + Cobimetinib, Dabrafenib + Trametinib",7
+2450,[Drug]_Trastuzumab + Pertuzumab,7
+2451,[Drug]_Lapatinib + Trastuzumab,7
+2452,[Disease]_Pleomorphic Xanthoastrocytoma,7
+2453,"[Drug]_Dabrafenib + Trametinib, Vemurafenib + Cobimetinib",1
+2454,[Variant]_KIT:Oncogenic Mutations,3
+2455,[Disease]_Thymic Tumor,7
+2456,[Variant]_CDK4:Amplification,7
+2457,[Disease]_Dedifferentiated Liposarcoma,7
+2458,"[Drug]_Palbociclib, Abemaciclib",7
+2459,[Disease]_Well-Differentiated Liposarcoma,7
+2460,"[Drug]_Abemaciclib, Palbociclib",0
+2461,"[Variant]_BRAF:V600E, V600K",6
+2462,[Drug]_Encorafenib + Binimetinib,7
+2463,[Variant]_BRAF:V600,7
+2464,[Drug]_Dabrafenib + Trametinib,7
+2465,[Disease]_Anaplastic Thyroid Cancer,7
+2466,[Drug]_Vemurafenib + Cobimetinib,7
+2467,[Drug]_Ado-Trastuzumab Emtansine,3
+2468,[Gene]_BRIP1,7
+2469,[Variant]_BRIP1:Oncogenic Mutations,4
+2470,[Gene]_FANCL,1
+2471,[Variant]_FANCL:Oncogenic Mutations,7
+2472,[Disease]_Neurofibroma,7
+2473,[Variant]_FGFR3:Oncogenic Mutations,7
+2474,[Variant]_PTEN:Oncogenic Mutations,7
+2475,[Variant]_FGFR1:Oncogenic Mutations,7
+2476,[Variant]_MET:Fusions,7
+2477,"[Variant]_BRAF:G464, G469A, G469R, G469V",1
+2478,[Variant]_CDK12:Truncating Mutations,1
+2479,[Variant]_FGFR2:Oncogenic Mutations,7
+2480,[Variant]_CDKN2A:Oncogenic Mutations,7
+2481,[Variant]_MTOR:Oncogenic Mutations,7
+2482,[Gene]_Other Biomarkers,1
+2483,[Drug]_Niraparib,7
+2484,[Gene]_RAD51B,7
+2485,[Variant]_RAD51B:Oncogenic Mutations,1
+2486,[Variant]_CDK12:Oncogenic Mutations,7
+2487,[Gene]_RAD51C,7
+2488,[Variant]_RAD51C:Oncogenic Mutations,7
+2489,[Variant]_ATM:Oncogenic Mutations,7
+2490,[Drug]_Encorafenib + Cetuximab,7
+2491,[Drug]_Pertuzumab + Trastuzumab,7
+2492,[Drug]_Trastuzumab + Lapatinib,7
+2493,[Variant]_BARD1:Oncogenic Mutations,1
+2494,[Drug]_Capecitabine + Trastuzumab + Tucatinib,7
+2495,[Variant]_RAD51D:Oncogenic Mutations,7
+2496,[Gene]_RAD54L,1
+2497,[Variant]_RAD54L:Oncogenic Mutations,7
+2498,[Disease]_Erdheim-Chester Disease,7
+2499,[Variant]_FLT3:Oncogenic Mutations,7
+2500,[Drug]_Midostaurin + High Dose Chemotherapy,7
+2501,[Drug]_Vemurafenib + Atezolizumab + Cobimetinib,7
+2502,[Drug]_Ipilimumab + Nivolumab,7
+2503,[Drug]_Fulvestrant + Alpelisib,7
+2504,[Variant]_TSC1:Oncogenic Mutations,7
+2505,[Disease]_CNS Cancer,7
+2506,[Variant]_TSC2:Oncogenic Mutations,7
+2507,[Variant]_CHEK1:Oncogenic Mutations,1
+2508,[Variant]_PDGFRA:Fusions,7
+2509,[Disease]_Myelodysplastic/Myeloproliferative Neoplasms,7
+2510,[Variant]_PDGFRB:Fusions,7
+2511,[Drug]_Pemigatinib,7
+2512,[Variant]_PALB2:Oncogenic Mutations,7
+2513,[Variant]_CHEK2:Oncogenic Mutations,1
+2514,"[Drug]_Gefitinib, Afatinib, Erlotinib",7
+2515,"[Drug]_Bosutinib, Nilotinib, Imatinib, Dasatinib",7
+2516,[Variant]_BTK:C481S,7
+2517,[Disease]_Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,7
+2518,"[Drug]_Erlotinib, Afatinib, Gefitinib",7
+2519,"[Drug]_Cetuximab, Panitumumab",7
+2520,"[Drug]_Panitumumab, Cetuximab",7
+2521,"[Drug]_Bosutinib, Dasatinib, Imatinib, Nilotinib",3
+2522,[Drug]_H3B-8800,6
+2523,[Disease]_Myelodysplastic Syndromes,7
+2524,[Variant]_FLI1:EWSR1-FLI1 Fusion,7
+2525,[Disease]_Ewing Sarcoma of Soft Tissue,7
+2526,[Drug]_TK216,6
+2527,"[Drug]_Temsirolimus, Everolimus",0
+2528,[Drug]_PLX8394,1
+2529,"[Drug]_Abemaciclib, Ribociclib, Palbociclib",7
+2530,"[Drug]_BGJ398, Erdafitinib, AZD4547, Debio1347",7
+2531,"[Drug]_Pembrolizumab, Cemiplimab, Nivolumab",7
+2532,"[Drug]_Binimetinib, Trametinib, Cobimetinib",7
+2533,"[Drug]_Debio1347, Erdafitinib, BGJ398, AZD4547",7
+2534,"[Drug]_AZD8186, GSK2636771",7
+2535,"[Drug]_AZD4547, Erdafitinib, Debio1347, BGJ398",7
+2536,"[Drug]_Crizotinib, Capmatinib",7
+2537,[Variant]_KIT:D820,7
+2538,"[Drug]_Erlotinib, Osimertinib, Gefitinib",7
+2539,[Variant]_KIT:N822,0
+2540,"[Drug]_Capmatinib, Crizotinib, Cabozantinib",7
+2541,[Variant]_JAK2:V617F,7
+2542,[Disease]_Lymphoid Leukemia,4
+2543,[Variant]_PDGFRA:D842V,1
+2544,[Variant]_DNMT3A:R882,7
+2545,[Gene]_NPM1,7
+2546,[Gene]_WT1,1
+2547,[Gene]_TET2,7
+2548,[Disease]_Bone Marrow Cancer,7
+2549,[Variant]_KRAS:G12,7
+2550,[Disease]_Acute Leukemia,7
+2551,[Variant]_NRAS:Q61,7
+2552,[Drug]_Daunorubicin,0
+2553,[Variant]_MAP2K1:P124S,7
+2554,[Drug]_Selumetinib,7
+2555,[Variant]_MAP2K1:Q56P,7
+2556,[Drug]_Vemurafenib,7
+2557,[Disease]_Thyroid Gland Papillary Carcinoma,7
+2558,[Drug]_Imatinib,6
+2559,[Disease]_Malignant Anus Melanoma,7
+2560,[Variant]_ARAF:S214C,7
+2561,[Gene]_DDR2,7
+2562,[Drug]_Sorafenib,0
+2563,[Drug]_Idarubicin,7
+2564,[Disease]_Polycythemia Vera,7
+2565,[Drug]_Fedratinib,7
+2566,[Variant]_NRAS:G13D,7
+2567,[Drug]_Tanespimycin,7
+2568,[Variant]_NRAS:Q61L,5
+2569,[Drug]_Temozolomide,7
+2570,[Variant]_NRAS:Q61R,7
+2571,[Variant]_KIT:D816V,7
+2572,[Variant]_NRAS:MUTATION,7
+2573,[Gene]_APC,7
+2574,[Variant]_ALK:F1174L,7
+2575,[Drug]_Crizotinib,6
+2576,[Disease]_Diffuse Large B-cell Lymphoma,0
+2577,[Variant]_KIT:L576P,7
+2578,"[Drug]_Nilotinib,Imatinib,Sorafenib",7
+2579,[Variant]_KRAS:G12/G13,7
+2580,"[Drug]_Gefitinib,Erlotinib",7
+2581,"[Drug]_Chemotherapy,Cetuximab",7
+2582,[Drug]_Alectinib,1
+2583,[Variant]_ALK:R1275Q,7
+2584,[Drug]_TAE684,7
+2585,[Drug]_Trametinib,7
+2586,[Drug]_Dasatinib,7
+2587,[Variant]_PDGFRA:D842I,7
+2588,[Drug]_Crenolanib,7
+2589,[Variant]_PDGFRA:D842Y,7
+2590,[Variant]_PDGFRA:I843DEL,7
+2591,[Variant]_PDGFRA:D842_I843delinsVM,7
+2592,[Variant]_FLT3:ITD,2
+2593,[Variant]_KIT:EXON 11 MUTATION,7
+2594,[Variant]_NRAS:G12,7
+2595,[Variant]_KIT:EXON 14 MUTATION,0
+2596,[Variant]_BRAF:V600E and V600M,7
+2597,[Drug]_Dabrafenib,7
+2598,[Variant]_RET:M918T,0
+2599,[Variant]_RET:C634W,7
+2600,[Drug]_Motesanib,7
+2601,[Drug]_JAK2 Inhibitor AZD1480,5
+2602,[Variant]_PIK3CA:E542K,7
+2603,[Drug]_Regorafenib,7
+2604,"[Drug]_MEK Inhibitor PD0325901,Trametinib",7
+2605,[Variant]_KRAS:EXON 2 MUTATION,7
+2606,[Drug]_Panitumumab,1
+2607,"[Drug]_Panitumumab,Sorafenib",1
+2608,[Variant]_BRAF:V600E and AMPLIFICATION,2
+2609,"[Drug]_Dabrafenib,Trametinib",7
+2610,[Variant]_BRAF:V600D,7
+2611,"[Drug]_Pictilisib Bismesylate,PLX4720",0
+2612,"[Drug]_PLX4720,Nutlin-3",7
+2613,"[Drug]_Capecitabine,Bevacizumab,Vemurafenib",0
+2614,[Variant]_NPM1:EXON 12 MUTATION,3
+2615,[Variant]_NPM1:W288FS,7
+2616,[Variant]_CEBPA:MUTATION,7
+2617,[Drug]_Tretinoin,7
+2618,[Variant]_PIK3CA:EXON 10 MUTATION,7
+2619,[Drug]_Cetuximab,7
+2620,[Disease]_Hematologic Cancer,7
+2621,[Drug]_SU5614,7
+2622,[Variant]_KRAS:G12V,7
+2623,[Variant]_PIK3CA:EXON 21 MUTATION,7
+2624,[Variant]_WT1:EXON 7 MUTATION,1
+2625,"[Drug]_Cytarabine,Daunorubicin",7
+2626,[Variant]_ALK:EML4-ALK L1196M,7
+2627,[Variant]_FGFR3:FGFR3-BAIAP2L1,7
+2628,[Drug]_PD173074,7
+2629,[Variant]_KRAS:G13D,7
+2630,[Drug]_Valproic Acid,7
+2631,"[Drug]_Tretinoin,NSC348884",7
+2632,"[Drug]_Anti-CD33,Anti-CD123",7
+2633,[Drug]_Anti-CD33,7
+2634,[Drug]_NSC348884,6
+2635,[Drug]_Induction Therapy,7
+2636,[Variant]_TSC1:FRAMESHIFT TRUNCATION,7
+2637,[Drug]_Sirolimus,7
+2638,[Disease]_Clear Cell Renal Cell Carcinoma,2
+2639,[Variant]_TSC1:LOSS-OF-FUNCTION,7
+2640,[Drug]_Everolimus,7
+2641,[Disease]_Invasive Bladder Transitional Cell Carcinoma,7
+2642,[Variant]_FLT3:MUTATION,7
+2643,[Variant]_IDH1:R132,7
+2644,[Variant]_WT1:EXON 9 MUTATION,7
+2645,[Variant]_FLT3:TKD MUTATION,7
+2646,[Variant]_MGMT:PROMOTER METHYLATION,4
+2647,[Variant]_DNMT3A:MUTATION,7
+2648,[Variant]_BRCA1:LOSS-OF-FUNCTION,7
+2649,[Drug]_Olaparib,7
+2650,[Variant]_BRCA2:LOSS-OF-FUNCTION,7
+2651,[Variant]_ABL1:BCR-ABL,7
+2652,[Variant]_U2AF1:Q157P/R,7
+2653,[Variant]_U2AF1:S34Y/F,7
+2654,[Gene]_CCND2,7
+2655,[Variant]_CCND2:PROMOTER DEMETHYLATION,7
+2656,[Variant]_CCND1:OVEREXPRESSION,7
+2657,[Variant]_IDH1:R132C,7
+2658,[Variant]_KRAS:G12D,7
+2659,[Variant]_EGFR:L858R,7
+2660,[Drug]_Akt Inhibitor MK2206,7
+2661,[Variant]_ABL1:BCR-ABL E255K,7
+2662,[Variant]_ABL1:BCR-ABL T315I,7
+2663,[Variant]_ALK:EML4-ALK C1156Y,2
+2664,[Drug]_Erlotinib,1
+2665,[Drug]_Gefitinib,7
+2666,[Drug]_Dacomitinib,7
+2667,[Variant]_ERBB2:L755S,7
+2668,[Drug]_Lapatinib,7
+2669,[Variant]_ESR1:L536Q,7
+2670,[Drug]_Hormone Therapy,7
+2671,[Variant]_ESR1:D538G,7
+2672,[Variant]_ESR1:Y537C,7
+2673,[Variant]_ESR1:Y537N,3
+2674,[Variant]_ESR1:Y537S,0
+2675,[Variant]_KRAS:G12A,7
+2676,[Gene]_GATA2,7
+2677,[Variant]_PIK3CA:H1047R,4
+2678,"[Drug]_Panitumumab,Cetuximab",7
+2679,"[Drug]_Dasatinib,Nilotinib",6
+2680,[Variant]_ALK:EML4-ALK,7
+2681,[Gene]_CCND3,7
+2682,[Variant]_CCND3:LOSS,7
+2683,[Disease]_T-cell Lymphoblastic Leukemia/lymphoma,7
+2684,[Drug]_Palbociclib,7
+2685,[Variant]_CDK4:EXPRESSION,7
+2686,[Drug]_Alpelisib,7
+2687,[Variant]_DDR2:G253C,6
+2688,[Variant]_DDR2:G505S,1
+2689,[Variant]_DDR2:G774V,7
+2690,[Variant]_DDR2:I638F,7
+2691,[Variant]_DDR2:L239R,1
+2692,[Variant]_DDR2:L63V,7
+2693,[Variant]_DDR2:S768R,7
+2694,"[Drug]_Dasatinib,Erlotinib",7
+2695,[Variant]_EGFR:EXON 19 DELETION,7
+2696,[Variant]_EGFR:G719S,7
+2697,"[Drug]_Pemetrexed,Erlotinib",7
+2698,[Drug]_Staurosporine,7
+2699,[Variant]_ERBB2:D769H,7
+2700,"[Drug]_Lapatinib,Neratinib",7
+2701,[Variant]_ERBB2:D769Y,7
+2702,[Drug]_Neratinib,7
+2703,[Variant]_ERBB2:L755_T759del,7
+2704,[Variant]_ERBB2:G309A,7
+2705,[Variant]_ERBB2:L755W,7
+2706,[Variant]_ERBB2:P780INS,7
+2707,[Variant]_ERBB2:R678Q,7
+2708,[Variant]_ERBB2:R896C,2
+2709,[Variant]_ERBB2:V777L,7
+2710,[Variant]_ERBB2:V842I,7
+2711,"[Drug]_Tamoxifen,Fulvestrant",7
+2712,"[Drug]_Fulvestrant,Tamoxifen",7
+2713,[Variant]_FGFR2:FGFR2-MGEA5,7
+2714,[Drug]_Ponatinib,1
+2715,[Variant]_FGFR2:FGFR2-TACC3,7
+2716,"[Drug]_Pazopanib,Ponatinib",7
+2717,[Drug]_Lestaurtinib,7
+2718,[Drug]_Tyrphostin AG 1296,7
+2719,[Variant]_GATA2:EXPRESSION,7
+2720,"[Drug]_Bortezomib,Fasudil",7
+2721,[Variant]_KIT:INTERNAL DUPLICATION,1
+2722,"[Drug]_Dasatinib,Nilotinib,Imatinib",7
+2723,[Drug]_Sunitinib,7
+2724,"[Drug]_Dactolisib,Selumetinib",7
+2725,[Drug]_Carmustine,7
+2726,[Drug]_O6-Benzylguanine,7
+2727,[Drug]_PI3K-alpha Inhibitor MEN1611,7
+2728,[Variant]_PML:PML-RARA,7
+2729,[Variant]_PTEN:R233*,7
+2730,[Drug]_MTOR Inhibitor,7
+2731,[Variant]_TP53:R175H,7
+2732,[Drug]_Doxorubicin,7
+2733,[Variant]_IDH2:R140,7
+2734,[Variant]_IDH2:MUTATION,7
+2735,[Disease]_Myelodysplastic Syndrome,7
+2736,[Variant]_IDH2:R172K,7
+2737,[Variant]_CCND1:EXPRESSION,7
+2738,[Variant]_SF3B1:MUTATION,7
+2739,[Variant]_CCND1:AMPLIFICATION,7
+2740,[Variant]_CCND2:OVEREXPRESSION,7
+2741,[Variant]_CCNE1:OVEREXPRESSION,7
+2742,[Disease]_Gastric Adenosquamous Carcinoma,7
+2743,[Variant]_CDKN2A:PROMOTER HYPERMETHYLATION,7
+2744,[Variant]_NOTCH1:D1642H,7
+2745,[Variant]_NOTCH1:R2327W,3
+2746,[Variant]_NOTCH1:S2275FS,7
+2747,[Variant]_NOTCH1:V2444FS,6
+2748,[Variant]_PIK3CA:E545K,7
+2749,[Variant]_TP53:R248Q,7
+2750,[Variant]_TP53:R248W,2
+2751,[Variant]_TP53:R249,7
+2752,[Variant]_TP53:R273C,7
+2753,[Variant]_TP53:R273H,6
+2754,[Gene]_CSF1R,7
+2755,[Variant]_CSF1R:MEF2D-CSF1R,7
+2756,"[Drug]_GW-2580,Imatinib",7
+2757,[Variant]_PRKACA:DNAJB1-PRKACA,7
+2758,[Disease]_Fibrolamellar Carcinoma,7
+2759,[Variant]_BCL2:IGH-BCL2,7
+2760,[Gene]_REL,7
+2761,[Gene]_FOXP1,7
+2762,[Variant]_FOXP1:AMPLIFICATION,7
+2763,[Variant]_REL:AMPLIFICATION,7
+2764,[Variant]_RUNX1:MUTATION,7
+2765,[Drug]_Cytarabine,7
+2766,[Gene]_IGF2,7
+2767,[Variant]_IGF2:OVEREXPRESSION,7
+2768,[Drug]_Linsitinib,7
+2769,"[Drug]_Linsitinib,Cabazitaxel,Docetaxel",7
+2770,[Variant]_TET2:MUTATION,7
+2771,[Variant]_AURKA:EXPRESSION,7
+2772,[Variant]_VHL:MUTATION,7
+2773,[Variant]_PBRM1:MUTATION,3
+2774,[Variant]_BCL2:EXPRESSION,7
+2775,[Variant]_EZH2:MUTATION,7
+2776,[Variant]_VHL:LOSS-OF-FUNCTION,7
+2777,[Variant]_FLI1:EWSR1-FLI1 Type 1,1
+2778,[Variant]_EZH2:Y646,7
+2779,[Gene]_KMT2D,7
+2780,[Variant]_KMT2D:LOSS-OF-FUNCTION,7
+2781,[Drug]_Ibrutinib,7
+2782,[Variant]_AKT1:Q79K,7
+2783,[Variant]_ALK:EML4-ALK and AMPLIFICATION,4
+2784,[Variant]_ALK:ALK FUSION G1202R,7
+2785,[Variant]_ALK:EML4-ALK S1206Y,7
+2786,[Variant]_ALK:EML4-ALK T1151INST,7
+2787,[Variant]_APC:MUTATION,7
+2788,[Disease]_Colon Carcinoma,7
+2789,[Drug]_JW55,7
+2790,[Drug]_G007-LK,7
+2791,[Variant]_AR:F877L,2
+2792,"[Drug]_Apalutamide,Enzalutamide",7
+2793,[Variant]_AR:W742,7
+2794,[Disease]_Prostate Carcinoma,7
+2795,[Drug]_Bicalutamide,7
+2796,[Variant]_ASXL1:MUTATION,7
+2797,[Variant]_ATM:MUTATION,1
+2798,[Variant]_ATM:UNDEREXPRESSION,7
+2799,"[Drug]_NU7441,KU-0060648",7
+2800,[Variant]_AURKA:AMPLIFICATION,7
+2801,[Disease]_Esophagus Adenocarcinoma,7
+2802,"[Drug]_Cisplatin,Alisertib",7
+2803,[Variant]_AURKA:OVEREXPRESSION,7
+2804,[Disease]_Cervical Adenocarcinoma,7
+2805,[Drug]_Paclitaxel,7
+2806,[Variant]_BAP1:EXPRESSION,7
+2807,[Variant]_BAP1:MUTATION,7
